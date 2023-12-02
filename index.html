@@ -6,6 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>safeGPT</title>
   <link rel="stylesheet" href="styles.css">
+  <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
+  <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.css" rel="stylesheet" />
 </head>
 
 <body>
@@ -24,8 +26,17 @@
     </section>
 
     <section class="map">
-      <!-- Map content will go here (you may need to integrate with a map API) -->
-      <!-- For example: <div id="map"></div> -->
+      <!-- Directly include map content -->
+      <div id='map'></div>
+      <script>
+        mapboxgl.accessToken = 'pk.eyJ1IjoiY2lsbGFuZ3UiLCJhIjoiY2xwb253Mjd3MHJmcDJqbzl1YTZ0bmtzNyJ9.djwVHU7J_qf1wrGmc2U8mA';
+        const map = new mapboxgl.Map({
+          container: 'map',
+          style: 'mapbox://styles/mapbox/streets-v12',
+          center: [-122.4194, 37.7749],
+          zoom: 10.7
+        });
+      </script>
     </section>
 
     <section class="chat-box">
