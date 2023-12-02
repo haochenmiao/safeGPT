@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
+
+main {
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+.search {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.map {
+  height: 300px; /* Set an appropriate height for the map container */
+  border: 1px solid #ddd; /* Optional: Add a border around the map */
+  margin-bottom: 20px;
+}
+
+.chat-box {
+  border: 1px solid #ddd;
+  padding: 10px;
+  height: 200px; /* Set an appropriate height for the chat box container */
+  overflow-y: auto; /* Enable vertical scrollbar if content exceeds the height */
+}
