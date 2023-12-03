@@ -23,6 +23,10 @@
 
       <label for="pointB">Point B:</label>
       <input type="text" id="pointB" placeholder="Enter destination...">
+
+      <section>
+        <button type="text" id="getDirectionsBtn" onclick="getDirections()"> Get Directions </button>
+      </section>
     </section>
 
     <section class="map">
@@ -36,6 +40,37 @@
           center: [-122.4194, 37.7749],
           zoom: 10.7
         });
+        function getDirections() {
+          var pointA = document.getElementById('pointA').value;
+          var pointB = document.getElementById('pointB').value;
+
+          // Use Mapbox Geocoding API to get the coordinates for Point A
+          fetch(`https://api.mapbox.com/geocoding/v5/mapbox.places/${pointA}.json?access_token=${mapboxgl.accessToken}`)
+            .then(response => response.json())
+            .then(data => {
+              const locationA = data.features[0].geometry.coordinates;
+
+              // Use Mapbox Geocoding API to get the coordinates for Point B
+              fetch(`https://api.mapbox.com/geocoding/v5/mapbox.places/${pointB}.json?access_token=${mapboxgl.accessToken}`)
+                .then(response => response.json())
+                .then(data => {
+                  const locationB = data.features[0].geometry.coordinates;
+
+                  // Use Mapbox Directions API to get the route between Point A and Point B
+                  fetch(`https://api.mapbox.com/directions/v5/mapbox/driving/${locationA[0]},${locationA[1]};${locationB[0]},${locationB[1]}?access_token=${mapboxgl.accessToken}`)
+                    .then(response => response.json())
+                    .then(data => {
+                      const routeCoordinates = data.routes[0].geometry.coordinates;
+                      console.log('Route Coordinates:', routeCoordinates);
+
+                      // You can use the routeCoordinates for further processing or display on the map
+                    })
+                    .catch(error => console.error('Error:', error));
+                })
+                .catch(error => console.error('Error:', error));
+            })
+            .catch(error => console.error('Error:', error));
+        }
       </script>
       <script>
     var directions = new MapboxDirections({
