@@ -77,26 +77,76 @@ footer {
 
 /* chatbox css */
 
-.chatbox_section {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+.chatbox {
+  position: relative;
+  background-color:#4CAF50;
+  max-width: 350px;
+  height: 400px;
+  margin: 20px;
+  border-radius: 10px;
+  font-family: Avenir;
+  font-size: 14px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.chatbox_input {
-  width: 100%;
+.nav {
+  background-color: #4CAF50;
+  height: 30px;
   padding: 10px;
-  box-sizing: border-box;
-  margin-bottom: auto;
+  color: white;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  display: flex;
+  align-items: center;
 }
 
-.chatbox_middle {
-  /* Styling for the middle section where results will be produced */
-  flex: 1;
+.chatbody {
+  padding: 10px 10px;
 }
 
-.chatbox_header {
-    background-color: #4CAF50;
-    color: white;
-    text-align: center;
+#bot {
+  padding: 10px;
+  float: left;
+  margin: 5px;
+  max-width: 90%;
+  display: table;
+  clear: both;
+  margin-left: 15px;
+  background-color: #4CAF50;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+#user {
+  padding: 10px;
+  float: right;
+  max-width: 70%;
+  background-color: #4CAF50;
+  margin: 5px;
+  color: white;
+  margin-right: 15px;
+  display: table;
+  clear: both;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+#text {
+  width: 90%;
+  outline: none;
+  border: none;
+  padding: 10px;
+  border-radius: 50px;
+  margin-top: 7px;
+  margin-left: 10px;
+}
+
+.icon {
+  padding: 15px;
+  color: #4CAF50;
+  right: -30px;
+  min-width: 50px;
+  position: absolute;
 }
