@@ -49,4 +49,13 @@ footer {
   color: white;
   text-align: left;
   padding: 1em;
+  display: flex;
+  justify-content: space-between;
+}
+
+.copyright {
+  text-align: left;
+}
+.name {
+  text-align: right;
 }
