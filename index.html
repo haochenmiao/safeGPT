@@ -25,6 +25,10 @@
       <input type="text" id="pointB" placeholder="Enter destination...">
     </section>
 
+    <section>
+      <button type="text" id="getDirectionsBtn"> Get Directions</button>
+    </section>
+
     <section class="map">
       <!-- Directly include map content -->
       <div id='map'></div>
@@ -36,15 +40,35 @@
           center: [-122.4194, 37.7749],
           zoom: 10.7
         });
-      </script>
-      <script>
-    var directions = new MapboxDirections({
-        accessToken: mapboxgl.accessToken,
-        unit: 'miles',
-        profile: 'mapbox/driving-traffic'
-      });
-    map.addControl(directions, 'top-left');
-      </script>
+
+        function getDirections() {
+          var pointA = document.getElementById('pointA').value;
+          var pointB = document.getElementById('pointB').value;
+
+          // Use Mapbox Directions API to get the route between Point A and Point B
+          fetch(`https://api.mapbox.com/directions/v5/mapbox/driving/${pointA};${pointB}?access_token=${mapboxgl.accessToken}`)
+            .then(response => response.json())
+            .then(data => {
+              const routeCoordinates = data.routes[0].geometry.coordinates;
+              console.log('Route Coordinates:', routeCoordinates);
+
+              // You can use the routeCoordinates for further processing or display on the map
+            })
+            .catch(error => console.error('Error:', error));
+
+          // Use Mapbox Geocoding API to get the coordinates for Point A
+          fetch(`https://api.mapbox.com/geocoding/v5/mapbox.places/${pointA}.json?access_token=${mapboxgl.accessToken}`)
+            .then(response => response.json())
+            .then(data => {
+              const locationA = data.features[0].geometry.coordinates;
+              console.log('Coordinates for Point A:', locationA);
+
+              // You can use the locationA coordinates for further processing or display on the map
+            })
+            .catch(error => console.error('Error:', error));
+        }
+
+   </script>
     </section>
 
     <section class="chat-box">
