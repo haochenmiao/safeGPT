@@ -95,9 +95,6 @@ while True:
     search_results = vs.similarity_search(user_input, k=3)
     context_string = '\n\n'.join([f'Document {ind+1}: ' + i.page_content for ind, i in enumerate(search_results)])
     prompt_data = PromptTemplate.from_template(RAG_PROMPT_TEMPLATE).format(human_input=user_input, context=context_string)
-    print("---1")
-    print(prompt_data)
-    print("---2")
 
     # Generate and output response
     llm = Bedrock(client=boto3_bedrock, model_id="anthropic.claude-v2", model_kwargs={"max_tokens_to_sample": 500, "temperature": 0.9})
