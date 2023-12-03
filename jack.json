@@ -1,0 +1,8 @@
+{
+    "name": "Jack Sparrow",
+    "type": "user",
+    "age": 23,
+    "birthday": "January 7th 2000",
+    "interests": ["hiking", "playing video games"],
+    "family": ["Haochen", "Lily", "Priscilla"]
+}

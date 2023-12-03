@@ -1,0 +1,2246 @@
+Incident ID: 163300190.
+Location: Country code 1, both ways.
+Schedule: Starts at 2022-05-25T08:32:01Z, ends at 2027-05-01T07:59:00Z.
+Description (short): Broadway: road permanently closed from Broadway St to Main St
+Description (long): Road permanently closed due to Open Air Dining on Broadway both ways from Broadway St to Main St.
+Description (Text-to-Speech): Broadway both ways, is permanently closed, from Broadway Street, to Main Street, because of Open Air Dining.
+
+Incident ID: 163300203.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2022-05-25T08:32:01Z, ends at 2027-05-01T07:59:00Z.
+Description (short): Theatre Way N/B: road permanently closed between Winslow St and Broadway
+Description (long): Road permanently closed due to Open Air Dining on Theatre Way Northbound between Winslow St and Broadway.
+Description (Text-to-Speech): Theatre Way Northbound, is permanently closed, between Winslow Street, and Broadway, because of Open Air Dining.
+
+Incident ID: 164100796.
+Location: Country code 1, both ways.
+Schedule: Starts at 2022-06-24T10:35:05Z, ends at 2023-12-23T07:59:00Z.
+Description (short): Sunnydale Ave: no through traffic allowed from Hahn St to Santos St
+Description (long): No through traffic allowed due to construction work on Sunnydale Ave both ways from Hahn St to Santos St.
+Description (Text-to-Speech): On Sunnydale Avenue both ways, from Hahn Street, to Santos Street, no through traffic is allowed because of construction work.
+
+Incident ID: 166244801.
+Location: Country code 0, both ways.
+Schedule: Starts at 2022-09-12T11:33:12Z, ends at 2024-01-01T07:59:00Z.
+Description (short): Ramona St: road closed from Hamilton Ave to Plaza Ramona
+Description (long): Road closed due to pedestrianisation on Ramona St both ways from Hamilton Ave to Plaza Ramona.
+Description (Text-to-Speech): Ramona Street both ways, is closed, from Hamilton Avenue, to Plaza Ramona, because of pedestrianisation.
+
+Incident ID: 167315230.
+Location: Country code 1, None.
+Schedule: Starts at 2022-10-17T09:24:35Z, ends at 2024-03-17T07:00:00Z.
+Description (short): Churchill Ave: long-term construction at Castilleja Ave
+Description (long): Long-term construction and new road layout on Churchill Ave at Castilleja Ave.
+Description (Text-to-Speech): On Churchill Avenue, at Castilleja Avenue, there is long-term construction, and a new road layout.
+
+Incident ID: 167535617.
+Location: Country code 1, None.
+Schedule: Starts at 2022-11-14T08:00:00Z, ends at 2023-12-30T08:00:00Z.
+Description (short): 9th St: new traffic signals at Division St
+Description (long): New traffic signals and maintenance work on 9th St at Division St.
+Description (Text-to-Speech): On 9th Street, at Division Street, there are new traffic signals, and maintenance work.
+
+Incident ID: 167535619.
+Location: Country code 1, None.
+Schedule: Starts at 2022-11-14T08:00:00Z, ends at 2023-12-30T08:00:00Z.
+Description (short): Kezar Dr: new traffic signals at Lincoln Way
+Description (long): New traffic signals and maintenance work on Kezar Dr at Lincoln Way.
+Description (Text-to-Speech): On Kezar Drive, at Lincoln Way, there are new traffic signals, and maintenance work.
+
+Incident ID: 167535625.
+Location: Country code 1, None.
+Schedule: Starts at 2022-11-14T08:00:00Z, ends at 2023-12-30T08:00:00Z.
+Description (short): Hattie St: new traffic signals at Market St
+Description (long): New traffic signals and maintenance work on Hattie St at Market St.
+Description (Text-to-Speech): On Hattie Street, at Market Street, there are new traffic signals, and maintenance work.
+
+Incident ID: 167535629.
+Location: Country code 1, None.
+Schedule: Starts at 2022-11-14T08:00:00Z, ends at 2023-12-30T08:00:00Z.
+Description (short): Loomis St: new traffic signals at Oakdale Ave
+Description (long): New traffic signals and maintenance work on Loomis St at Oakdale Ave.
+Description (Text-to-Speech): On Loomis Street, at Oakdale Avenue, there are new traffic signals, and maintenance work.
+
+Incident ID: 167535630.
+Location: Country code 1, None.
+Schedule: Starts at 2022-11-14T08:00:00Z, ends at 2023-12-30T08:00:00Z.
+Description (short): Alemany Blvd: new traffic signals at Rousseau St
+Description (long): New traffic signals and maintenance work on Alemany Blvd at Rousseau St.
+Description (Text-to-Speech): On Alemany Boulevard, at Rousseau Street, there are new traffic signals, and maintenance work.
+
+Incident ID: 167535635.
+Location: Country code 1, None.
+Schedule: Starts at 2022-11-14T08:00:00Z, ends at 2023-12-30T08:00:00Z.
+Description (short): Alemany Blvd: new traffic signals at Theresa St
+Description (long): New traffic signals and maintenance work on Alemany Blvd at Theresa St.
+Description (Text-to-Speech): On Alemany Boulevard, at Theresa Street, there are new traffic signals, and maintenance work.
+
+Incident ID: 167535646.
+Location: Country code 1, None.
+Schedule: Starts at 2022-11-14T08:00:00Z, ends at 2023-12-30T08:00:00Z.
+Description (short): Alemany Blvd: new traffic signals at Lawrence Ave
+Description (long): New traffic signals and maintenance work on Alemany Blvd at Lawrence Ave.
+Description (Text-to-Speech): On Alemany Boulevard, at Lawrence Avenue, there are new traffic signals, and maintenance work.
+
+Incident ID: 167565804.
+Location: Country code 1, both ways.
+Schedule: Starts at 2025-12-21T08:00:00Z, ends at 2026-03-20T07:00:00Z.
+Description (short): 7th St: road closed from 7th St / Cedar St to Wood St
+Description (long): Road closed due to construction work on 7th St both ways from 7th St / Cedar St to Wood St.
+Description (Text-to-Speech): 7th Street both ways, is closed, from 7th Street, to Wood Street, because of construction work.
+
+Incident ID: 167565859.
+Location: Country code 1, None.
+Schedule: Starts at 2024-03-20T07:00:00Z, ends at 2024-06-21T07:00:00Z.
+Description (short): 14th St: construction work at Mandela Pkwy
+Description (long): Construction work on 14th St at Mandela Pkwy.
+Description (Text-to-Speech): On 14th Street, at Mandela Parkway, there is construction work.
+
+Incident ID: 167565862.
+Location: Country code 1, None.
+Schedule: Starts at 2024-03-20T07:00:00Z, ends at 2024-06-21T07:00:00Z.
+Description (short): 14th St: construction work at Filbert St
+Description (long): Construction work on 14th St at Filbert St.
+Description (Text-to-Speech): On 14th Street, at Filbert Street, there is construction work.
+
+Incident ID: 167565868.
+Location: Country code 1, None.
+Schedule: Starts at 2024-03-20T07:00:00Z, ends at 2024-06-21T07:00:00Z.
+Description (short): 14th St: construction work at Poplar St
+Description (long): Construction work on 14th St at Poplar St.
+Description (Text-to-Speech): On 14th Street, at Poplar Street, there is construction work.
+
+Incident ID: 167565877.
+Location: Country code 1, None.
+Schedule: Starts at 2024-03-20T07:00:00Z, ends at 2024-06-21T07:00:00Z.
+Description (short): 14th St: construction work at Willow St
+Description (long): Construction work on 14th St at Willow St.
+Description (Text-to-Speech): On 14th Street, at Willow Street, there is construction work.
+
+Incident ID: 167565882.
+Location: Country code 1, None.
+Schedule: Starts at 2024-03-20T07:00:00Z, ends at 2024-06-21T07:00:00Z.
+Description (short): 14th St: construction work at Market St
+Description (long): Construction work on 14th St at Market St.
+Description (Text-to-Speech): On 14th Street, at Market Street, there is construction work.
+
+Incident ID: 167565889.
+Location: Country code 1, None.
+Schedule: Starts at 2024-03-20T07:00:00Z, ends at 2024-06-21T07:00:00Z.
+Description (short): 14th St: construction work at Adeline St
+Description (long): Construction work on 14th St at Adeline St.
+Description (Text-to-Speech): On 14th Street, at Adeline Street, there is construction work.
+
+Incident ID: 167565895.
+Location: Country code 1, None.
+Schedule: Starts at 2024-03-20T07:00:00Z, ends at 2024-06-21T07:00:00Z.
+Description (short): Wood St: construction work at 12th St
+Description (long): Construction work on Wood St at 12th St.
+Description (Text-to-Speech): On Wood Street, at 12th Street, there is construction work.
+
+Incident ID: 167565897.
+Location: Country code 1, None.
+Schedule: Starts at 2024-03-20T07:00:00Z, ends at 2024-06-21T07:00:00Z.
+Description (short): Peralta St: construction work at 12th St
+Description (long): Construction work on Peralta St at 12th St.
+Description (Text-to-Speech): On Peralta Street, at 12th Street, there is construction work.
+
+Incident ID: 167565904.
+Location: Country code 1, None.
+Schedule: Starts at 2024-03-20T07:00:00Z, ends at 2024-06-21T07:00:00Z.
+Description (short): I-980: construction work at 12th St / West St
+Description (long): Construction work on I-980 at 12th St / West St.
+Description (Text-to-Speech): On I-980, at 12th Street, there is construction work.
+
+Incident ID: 167565907.
+Location: Country code 1, None.
+Schedule: Starts at 2024-03-20T07:00:00Z, ends at 2024-06-21T07:00:00Z.
+Description (short): Martin Luther King Jr Way: construction work at 25th St
+Description (long): Construction work on Martin Luther King Jr Way at 25th St.
+Description (Text-to-Speech): On Martin Luther King Jr Way, at 25th Street, there is construction work.
+
+Incident ID: 167565911.
+Location: Country code 1, None.
+Schedule: Starts at 2024-03-20T07:00:00Z, ends at 2024-06-21T07:00:00Z.
+Description (short): Martin Luther King Jr Way: construction work at 31st St
+Description (long): Construction work on Martin Luther King Jr Way at 31st St.
+Description (Text-to-Speech): On Martin Luther King Jr Way, at 31st Street, there is construction work.
+
+Incident ID: 168198704.
+Location: Country code 0, both ways.
+Schedule: Starts at 2022-11-14T15:35:09Z, ends at 2025-12-31T23:59:00Z.
+Description (short): Jerrold Ave: road closed from Rankin St to Phelps St
+Description (long): Road closed due to long-term construction on Jerrold Ave both ways from Rankin St to Phelps St.
+Description (Text-to-Speech): Jerrold Avenue both ways, is closed, from Rankin Street, to Phelps Street, because of long-term construction.
+
+Incident ID: 168511317.
+Location: Country code 1, both ways.
+Schedule: Starts at 2022-11-22T16:58:08Z, ends at 2024-05-22T16:24:00Z.
+Description (short): John F Kennedy Dr: road closed from Transverse Dr to Kezar Dr
+Description (long): Road closed due to slow streets on John F Kennedy Dr both ways from Transverse Dr to Kezar Dr.
+Description (Text-to-Speech): John F Kennedy Drive both ways, is closed, from Transverse Drive, to Kezar Drive, because of slow streets.
+
+Incident ID: 171191181.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-02-03T09:28:16Z, ends at 2024-02-03T09:51:00Z.
+Description (short): China Grade Rd: road closed from CA-236 Big Basin Way to Johansen Rd
+Description (long): Road closed due to construction on China Grade Rd both ways from CA-236 Big Basin Way to Johansen Rd.
+Description (Text-to-Speech): China Grade Road both ways, is closed, from CA-236 Big Basin Way, to Johansen Road, because of construction.
+
+Incident ID: 171314297.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-02-08T10:30:43Z, ends at 2026-02-08T10:59:00Z.
+Description (short): Panoramic Way: closed to high sided vehicles from Orchard Ln to Dwight Way
+Description (long): Closed to high sided vehicles on Panoramic Way both ways from Orchard Ln to Dwight Way.
+Description (Text-to-Speech): Panoramic Way both ways, is closed to high sided vehicles, from Orchard Lane, to Dwight Way,.
+
+Incident ID: 173562853.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-04-04T11:24:34Z, ends at 2024-11-29T12:49:00Z.
+Description (short): Aldercroft Hts Rd: road closed from Old Santa Cruz Hwy to Alma Bridge Rd
+Description (long): Road closed due to landslide on Aldercroft Hts Rd both ways from Old Santa Cruz Hwy to Alma Bridge Rd.
+Description (Text-to-Speech): Aldercroft Hts Road both ways, is closed, from Old Santa Cruz Highway, to Alma Bridge Road, because of a landslide.
+
+Incident ID: 173562974.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-04-04T11:26:54Z, ends at 2024-01-29T12:39:00Z.
+Description (short): Old Santa Cruz Hwy: road closed between Melsha Way and Aldercroft Hts Rd
+Description (long): Road closed due to landslide on Old Santa Cruz Hwy both ways between Melsha Way and Aldercroft Hts Rd.
+Description (Text-to-Speech): Old Santa Cruz Highway both ways, is closed, between Melsha Way, and Aldercroft Hts Road, because of a landslide.
+
+Incident ID: 175294508.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-02T17:00:00Z, ends at 2023-12-03T04:00:00Z.
+Description (short): Haight St: road closed between Scott St and Webster St
+Description (long): Road closed due to the Lower Haight Merchants and Neighbors Association Art Walk event on Haight St both ways between Scott St and Webster St.
+Description (Text-to-Speech): Haight Street both ways, is closed, between Scott Street, and Webster Street, because of the Lower Haight Merchants and Neighbors Association Art Walk event.
+
+Incident ID: 175294516.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-02T17:00:00Z, ends at 2023-12-03T04:00:00Z.
+Description (short): Steiner St: no through traffic allowed between Laussat St and Page St
+Description (long): No through traffic allowed due to the Lower Haight Merchants and Neighbors Association Art Walk event on Steiner St both ways between Laussat St and Page St.
+Description (Text-to-Speech): On Steiner Street both ways, between Laussat Street, and Page Street, no through traffic is allowed because of the Lower Haight Merchants and Neighbors Association Art Walk event.
+
+Incident ID: 175294525.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-02T17:00:00Z, ends at 2023-12-03T04:00:00Z.
+Description (short): Pierce St: no through traffic allowed between Waller St and Page St
+Description (long): No through traffic allowed due to the Lower Haight Merchants and Neighbors Association Art Walk event on Pierce St both ways between Waller St and Page St.
+Description (Text-to-Speech): On Pierce Street both ways, between Waller Street, and Page Street, no through traffic is allowed because of the Lower Haight Merchants and Neighbors Association Art Walk event.
+
+Incident ID: 175571639.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-10T12:46:36Z, ends at 2024-05-11T06:59:00Z.
+Description (short): Mt Veeder Rd: road closed from Montgomery to Dry Creek Rd
+Description (long): Road closed due to construction work on Mt Veeder Rd both ways from Montgomery to Dry Creek Rd.
+Description (Text-to-Speech): Mt Veeder Road both ways, is closed, from Montgomery, to Dry Creek Road, because of construction work.
+
+Incident ID: 175639693.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-11T11:03:26Z, ends at 2023-12-17T01:30:00Z.
+Description (short): Battery Caulfield Rd: no through traffic allowed from Washington Blvd to Wedemeyer St
+Description (long): No through traffic allowed due to slow streets on Battery Caulfield Rd both ways from Washington Blvd to Wedemeyer St.
+Description (Text-to-Speech): On Battery Caulfield Road both ways, from Washington Boulevard, to Wedemeyer Street, no through traffic is allowed because of slow streets.
+
+Incident ID: 175640193.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-11T11:14:52Z, ends at 2023-12-22T01:00:00Z.
+Description (short): Pacific Ave: no through traffic allowed from Presidio Blvd to Arguello Blvd
+Description (long): No through traffic allowed due to slow streets on Pacific Ave both ways from Presidio Blvd to Arguello Blvd.
+Description (Text-to-Speech): On Pacific Avenue both ways, from Presidio Boulevard, to Arguello Boulevard, no through traffic is allowed because of slow streets.
+
+Incident ID: 175655292.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-11T14:48:38Z, ends at 2024-01-01T07:59:00Z.
+Description (short): Cabrillo St: no through traffic allowed between 23rd Ave and 45th Ave
+Description (long): No through traffic allowed due to slow streets on Cabrillo St both ways between 23rd Ave and 45th Ave.
+Description (Text-to-Speech): On Cabrillo Street both ways, between 23rd Avenue, and 45th Avenue, no through traffic is allowed because of slow streets.
+
+Incident ID: 175655429.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-11T14:50:41Z, ends at 2024-01-01T07:59:00Z.
+Description (short): Lake St: no through traffic allowed between 28th Ave and Arguello Blvd
+Description (long): No through traffic allowed due to slow streets on Lake St both ways between 28th Ave and Arguello Blvd.
+Description (Text-to-Speech): On Lake Street both ways, between 28th Avenue, and Arguello Boulevard, no through traffic is allowed because of slow streets.
+
+Incident ID: 175655498.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-11T14:51:32Z, ends at 2024-01-01T07:59:00Z.
+Description (short): 23rd Ave: no through traffic allowed between Cabrillo St and Lake St
+Description (long): No through traffic allowed due to slow streets on 23rd Ave both ways between Cabrillo St and Lake St.
+Description (Text-to-Speech): On 23rd Avenue both ways, between Cabrillo Street, and Lake Street, no through traffic is allowed because of slow streets.
+
+Incident ID: 175655901.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-11T14:57:01Z, ends at 2024-01-01T07:59:00Z.
+Description (short): 12th Ave: no through traffic allowed between Lawton St and Lincoln Way
+Description (long): No through traffic allowed due to slow streets on 12th Ave both ways between Lawton St and Lincoln Way.
+Description (Text-to-Speech): On 12th Avenue both ways, between Lawton Street, and Lincoln Way, no through traffic is allowed because of slow streets.
+
+Incident ID: 175655934.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-11T14:58:02Z, ends at 2024-01-01T07:59:00Z.
+Description (short): 20th St: no through traffic allowed between Potrero Ave and Shotwell St
+Description (long): No through traffic allowed due to slow streets on 20th St both ways between Potrero Ave and Shotwell St.
+Description (Text-to-Speech): On 20th Street both ways, between Potrero Avenue, and Shotwell Street, no through traffic is allowed because of slow streets.
+
+Incident ID: 175656177.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-11T15:02:00Z, ends at 2024-01-01T07:59:00Z.
+Description (short): Arlington St: no through traffic allowed between Randall St and Roanoke St
+Description (long): No through traffic allowed due to slow streets on Arlington St both ways between Randall St and Roanoke St.
+Description (Text-to-Speech): On Arlington Street both ways, between Randall Street, and Roanoke Street, no through traffic is allowed because of slow streets.
+
+Incident ID: 175656386.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-11T15:04:59Z, ends at 2024-01-01T07:59:00Z.
+Description (short): Cayuga Ave: no through traffic allowed between Naglee Ave and Rousseau St
+Description (long): No through traffic allowed due to slow streets on Cayuga Ave both ways between Naglee Ave and Rousseau St.
+Description (Text-to-Speech): On Cayuga Avenue both ways, between Naglee Avenue, and Rousseau Street, no through traffic is allowed because of slow streets.
+
+Incident ID: 175656487.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-11T15:07:11Z, ends at 2024-01-01T07:59:00Z.
+Description (short): Clay St: no through traffic allowed between Arguello Blvd and Steiner St
+Description (long): No through traffic allowed due to slow streets on Clay St both ways between Arguello Blvd and Steiner St.
+Description (Text-to-Speech): On Clay Street both ways, between Arguello Boulevard, and Steiner Street, no through traffic is allowed because of slow streets.
+
+Incident ID: 175656557.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-11T15:08:26Z, ends at 2024-01-01T07:59:00Z.
+Description (short): Golden Gate Ave: no through traffic allowed between Broderick St and Parker Ave
+Description (long): No through traffic allowed due to slow streets on Golden Gate Ave both ways between Broderick St and Parker Ave.
+Description (Text-to-Speech): On Golden Gate Avenue both ways, between Broderick Street, and Parker Avenue, no through traffic is allowed because of slow streets.
+
+Incident ID: 175656635.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-11T15:10:08Z, ends at 2024-01-01T07:59:00Z.
+Description (short): Hearst Ave: no through traffic allowed between Baden St and Ridgewood Ave
+Description (long): No through traffic allowed due to slow streets on Hearst Ave both ways between Baden St and Ridgewood Ave.
+Description (Text-to-Speech): On Hearst Avenue both ways, between Baden Street, and Ridgewood Avenue, no through traffic is allowed because of slow streets.
+
+Incident ID: 175658701.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-11T15:43:19Z, ends at 2024-01-01T07:59:00Z.
+Description (short): Noe St: no through traffic allowed between Beaver St and Duboce Ave
+Description (long): No through traffic allowed due to safe streets on Noe St both ways between Beaver St and Duboce Ave.
+Description (Text-to-Speech): On Noe Street both ways, between Beaver Street, and Duboce Avenue, no through traffic is allowed because of safe streets.
+
+Incident ID: 175658793.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-05-11T15:44:45Z, ends at 2024-01-01T07:59:00Z.
+Description (short): Page St: no through traffic allowed between Octavia Blvd and Stanyan St
+Description (long): No through traffic allowed due to safe streets on Page St both ways between Octavia Blvd and Stanyan St.
+Description (Text-to-Speech): On Page Street both ways, between Octavia Boulevard, and Stanyan Street, no through traffic is allowed because of safe streets.
+
+Incident ID: 175658924.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-11T15:47:08Z, ends at 2024-01-01T07:59:00Z.
+Description (short): Shotwell St: no through traffic allowed between Cesar Chavez St and 14th St
+Description (long): No through traffic allowed due to safe streets on Shotwell St both ways between Cesar Chavez St and 14th St.
+Description (Text-to-Speech): On Shotwell Street both ways, between Cesar Chavez Street, and 14th Street, no through traffic is allowed because of safe streets.
+
+Incident ID: 175659129.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-11T15:50:17Z, ends at 2024-03-26T04:00:00Z.
+Description (short): Somerset St: no through traffic allowed between Woolsey St and Silver Ave
+Description (long): No through traffic allowed due to safe streets on Somerset St both ways between Woolsey St and Silver Ave.
+Description (Text-to-Speech): On Somerset Street both ways, between Woolsey Street, and Silver Avenue, no through traffic is allowed because of safe streets.
+
+Incident ID: 175885637.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-08T20:00:00Z, ends at 2023-12-09T07:59:00Z.
+Description (short): Great Hwy: no through traffic allowed from Lincoln Hwy to Sloat Blvd
+Description (long): No through traffic allowed due to slow streets on Great Hwy both ways from Lincoln Hwy to Sloat Blvd.
+Description (Text-to-Speech): On Great Highway both ways, from Lincoln Highway, to Sloat Boulevard, no through traffic is allowed because of slow streets.
+
+Incident ID: 175885691.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-02T08:00:00Z, ends at 2023-12-03T07:59:00Z.
+Description (short): Great Hwy: no through traffic allowed from Lincoln Hwy to Sloat Blvd
+Description (long): No through traffic allowed due to slow streets on Great Hwy both ways from Lincoln Hwy to Sloat Blvd.
+Description (Text-to-Speech): On Great Highway both ways, from Lincoln Highway, to Sloat Boulevard, no through traffic is allowed because of slow streets.
+
+Incident ID: 175885705.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-04T08:00:00Z, ends at 2023-12-04T14:00:00Z.
+Description (short): Great Hwy: no through traffic allowed from Lincoln Hwy to Sloat Blvd
+Description (long): No through traffic allowed due to slow streets on Great Hwy both ways from Lincoln Hwy to Sloat Blvd.
+Description (Text-to-Speech): On Great Highway both ways, from Lincoln Highway, to Sloat Boulevard, no through traffic is allowed because of slow streets.
+
+Incident ID: 175886660.
+Location: Country code 0, Eastbound.
+Schedule: Starts at 2023-05-15T11:20:08Z, ends at 2024-05-16T00:00:00Z.
+Description (short): Martin Luther King Jr Dr E/B: road closed from Lincoln Way to Middle Dr
+Description (long): Road closed due to slow streets on Martin Luther King Jr Dr Eastbound from Lincoln Way to Middle Dr.
+Description (Text-to-Speech): Martin Luther King Jr Drive Eastbound, is closed, from Lincoln Way, to Middle Drive, because of slow streets.
+
+Incident ID: 175886913.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-15T11:25:27Z, ends at 2024-05-16T00:53:00Z.
+Description (short): Bernice Rodgers Way: road closed from John F Kennedy Dr to Martin Luther King Jr Dr
+Description (long): Road closed due to slow streets on Bernice Rodgers Way both ways from John F Kennedy Dr to Martin Luther King Jr Dr.
+Description (Text-to-Speech): Bernice Rodgers Way both ways, is closed, from John F Kennedy Drive, to Martin Luther King Jr Drive, because of slow streets.
+
+Incident ID: 175887170.
+Location: Country code 0, Westbound.
+Schedule: Starts at 2023-05-15T11:30:10Z, ends at 2024-05-16T00:59:00Z.
+Description (short): Middle Dr W/B: no through traffic allowed from Metson Rd to Martin Luther King Jr Dr
+Description (long): No through traffic allowed due to slow streets on Middle Dr Westbound from Metson Rd to Martin Luther King Jr Dr.
+Description (Text-to-Speech): On Middle Drive Westbound, from Metson Road, to Martin Luther King Jr Drive, no through traffic is allowed because of slow streets.
+
+Incident ID: 175888518.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-15T11:51:01Z, ends at 2024-05-15T12:17:00Z.
+Description (short): 8th Ave: road closed from Fulton St to John F Kennedy Dr
+Description (long): Road closed due to slow streets on 8th Ave both ways from Fulton St to John F Kennedy Dr.
+Description (Text-to-Speech): 8th Avenue both ways, is closed, from Fulton Street, to John F Kennedy Drive, because of slow streets.
+
+Incident ID: 175888615.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-15T11:52:32Z, ends at 2024-05-15T12:21:00Z.
+Description (short): Arguello Blvd: road closed from Fulton St to Conservatory Dr
+Description (long): Road closed due to slow streets on Arguello Blvd both ways from Fulton St to Conservatory Dr.
+Description (Text-to-Speech): Arguello Boulevard both ways, is closed, from Fulton Street, to Conservatory Drive, because of slow streets.
+
+Incident ID: 175888914.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-15T11:57:31Z, ends at 2024-05-16T00:25:00Z.
+Description (short): Nancy Pelosi Dr: no through traffic allowed at Bowling Green Dr
+Description (long): No through traffic allowed due to slow streets on Nancy Pelosi Dr both ways from John F Kennedy Dr to Bowling Green Dr.
+Description (Text-to-Speech): On Nancy Pelosi Drive both ways, from John F Kennedy Drive, to Bowling Green Drive, no through traffic is allowed because of slow streets.
+
+Incident ID: 175890877.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2023-05-15T12:28:25Z, ends at 2024-05-16T00:56:00Z.
+Description (short): Conservatory Dr N/B: road closed from John F Kennedy Dr to Arguello Blvd
+Description (long): Road closed due to slow streets on Conservatory Dr Northbound from John F Kennedy Dr to Arguello Blvd.
+Description (Text-to-Speech): Conservatory Drive Northbound, is closed, from John F Kennedy Drive, to Arguello Boulevard, because of slow streets.
+
+Incident ID: 175891015.
+Location: Country code 0, Westbound.
+Schedule: Starts at 2023-05-15T12:30:32Z, ends at 2024-05-16T01:59:00Z.
+Description (short): Conservatory Dr W/B: road closed from Arguello Blvd to John F Kennedy Dr
+Description (long): Road closed due to slow streets on Conservatory Dr Westbound from Arguello Blvd to John F Kennedy Dr.
+Description (Text-to-Speech): Conservatory Drive Westbound, is closed, from Arguello Boulevard, to John F Kennedy Drive, because of slow streets.
+
+Incident ID: 175893244.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-15T13:02:10Z, ends at 2024-05-16T00:00:00Z.
+Description (short): Capp St: no through traffic allowed from 18th St to 22nd St
+Description (long): No through traffic allowed due to barricades installed on Capp St both ways from 18th St to 22nd St.
+Description (Text-to-Speech): On Capp Street both ways, from 18th Street, to 22nd Street, no through traffic is allowed because of barricades installed.
+
+Incident ID: 175895647.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-15T13:46:42Z, ends at 2024-05-16T00:14:00Z.
+Description (short): John F Shelley Dr: no through traffic allowed from Mansell St to Upper Reservoir
+Description (long): No through traffic allowed due to Slow streets on John F Shelley Dr both ways from Mansell St to Upper Reservoir.
+Description (Text-to-Speech): On John F Shelley Drive both ways, from Mansell Street, to Upper Reservoir, no through traffic is allowed because of Slow streets.
+
+Incident ID: 175897797.
+Location: Country code 1, Eastbound.
+Schedule: Starts at 2023-12-03T14:00:00Z, ends at 2023-12-03T23:00:00Z.
+Description (short): Golden Gate Ave E/B: no through traffic allowed from Leavenworth St to Jones St
+Description (long): No through traffic allowed due to slow streets on Golden Gate Ave Eastbound from Leavenworth St to Jones St.
+Description (Text-to-Speech): On Golden Gate Avenue Eastbound, from Leavenworth Street, to Jones Street, no through traffic is allowed because of slow streets.
+
+Incident ID: 175902569.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-15T16:23:43Z, ends at 2024-05-15T16:52:00Z.
+Description (short): 15th St: no through traffic allowed from 20th Ave to 16th Ave
+Description (long): No through traffic allowed due to barricades on 15th St both ways from 20th Ave to 16th Ave.
+Description (Text-to-Speech): On 15th Street both ways, from 20th Avenue, to 16th Avenue, no through traffic is allowed because of barricades.
+
+Incident ID: 176119349.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-18T14:25:31Z, ends at 2027-12-31T00:58:00Z.
+Description (short): San Pedro St: road closed from Santa Clara St to St John St
+Description (long): Road closed due to open streets on San Pedro St both ways from Santa Clara St to St John St.
+Description (Text-to-Speech): San Pedro Street both ways, is closed, from Santa Clara Street, to Street John Street, because of open streets.
+
+Incident ID: 176120159.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-18T14:38:00Z, ends at 2024-12-21T01:01:00Z.
+Description (short): Spring St: no through traffic allowed from Taylor St to Hedding St
+Description (long): No through traffic allowed due to city order on Spring St both ways from Taylor St to Hedding St.
+Description (Text-to-Speech): On Spring Street both ways, from Taylor Street, to Hedding Street, no through traffic is allowed because of city order.
+
+Incident ID: 176196362.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-19T14:21:08Z, ends at 2024-01-01T01:00:00Z.
+Description (short): Pan Am Way: no through traffic allowed from Tower Ave to Midway Ave
+Description (long): No through traffic allowed due to construction on Pan Am Way both ways from Tower Ave to Midway Ave.
+Description (Text-to-Speech): On Pan Am Way both ways, from Tower Avenue, to Midway Avenue, no through traffic is allowed because of construction.
+
+Incident ID: 176196868.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-19T14:32:29Z, ends at 2024-01-01T01:00:00Z.
+Description (short): Midway Ave: no through traffic allowed from Saratoga St to Pan Am Way
+Description (long): No through traffic allowed due to construction on Midway Ave both ways from Saratoga St to Pan Am Way.
+Description (Text-to-Speech): On Midway Avenue both ways, from Saratoga Street, to Pan Am Way, no through traffic is allowed because of construction.
+
+Incident ID: 176197425.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-19T14:44:33Z, ends at 2024-01-01T01:00:00Z.
+Description (short): Orion St: no through traffic allowed from Midway Ave to Pearl Harbor Rd
+Description (long): No through traffic allowed due to construction on Orion St both ways from Midway Ave to Pearl Harbor Rd.
+Description (Text-to-Speech): On Orion Street both ways, from Midway Avenue, to Pearl Harbor Road, no through traffic is allowed because of construction.
+
+Incident ID: 176199222.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-19T15:21:01Z, ends at 2025-01-01T01:00:00Z.
+Description (short): Avenue Of The Palms: road permanently closed from 9th St to Clipper Cove Way
+Description (long): Road permanently closed due to new road layout on Avenue Of The Palms both ways from 9th St to Clipper Cove Way.
+Description (Text-to-Speech): Avenue Of The Palms both ways, is permanently closed, from 9th Street, to Clipper Cove Way, because of a new road layout.
+
+Incident ID: 176200159.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-19T15:37:38Z, ends at 2024-01-01T01:00:00Z.
+Description (short): California Ave: road closed from Avenue D to Avenue N
+Description (long): Road closed due to construction on California Ave both ways from Avenue D to Avenue N.
+Description (Text-to-Speech): California Avenue both ways, is closed, from Avenue D, to Avenue N, because of construction.
+
+Incident ID: 176200514.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-19T15:43:46Z, ends at 2024-01-01T02:01:00Z.
+Description (short): Clipper Cove Way: road closed from Avenue Of The Palms to Avenue G
+Description (long): Road closed due to construction on Clipper Cove Way both ways from Avenue Of The Palms to Avenue G.
+Description (Text-to-Speech): Clipper Cove Way both ways, is closed, from Avenue Of The Palms, to Avenue G, because of construction.
+
+Incident ID: 176200882.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-19T15:50:57Z, ends at 2023-12-31T14:00:00Z.
+Description (short): Avenue: no through traffic allowed from Avenue C to Avenue M
+Description (long): No through traffic allowed due to construction work on Avenue both ways from Avenue C / Avenue N to Seven Seas Ave / California Ave.
+Description (Text-to-Speech): On Avenue both ways, from Avenue C, to Seven Seas Avenue, no through traffic is allowed because of construction work.
+
+Incident ID: 176200969.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-19T15:50:57Z, ends at 2023-12-31T14:00:00Z.
+Description (short): Avenue M: no through traffic allowed from 4th St to Seven Seas Ave / California Ave
+Description (long): No through traffic allowed due to construction work on Avenue M both ways from 4th St to Seven Seas Ave / California Ave.
+Description (Text-to-Speech): On Avenue M both ways, from 4th Street, to Seven Seas Avenue, no through traffic is allowed because of construction work.
+
+Incident ID: 176201007.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-19T15:50:57Z, ends at 2023-12-31T14:00:00Z.
+Description (short): Avenue M: no through traffic allowed from 13th St to 10th St
+Description (long): No through traffic allowed due to construction work on Avenue M both ways from 13th St to 10th St.
+Description (Text-to-Speech): On Avenue M both ways, from 13th Street, to 10th Street, no through traffic is allowed because of construction work.
+
+Incident ID: 176201235.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-19T15:57:08Z, ends at 2024-01-01T02:01:00Z.
+Description (short): Avenue H: road closed from 4th St to 3rd St
+Description (long): Road closed due to construction on Avenue H both ways from 4th St to 3rd St.
+Description (Text-to-Speech): Avenue H both ways, is closed, from 4th Street, to 3rd Street, because of construction.
+
+Incident ID: 176203035.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-19T16:30:43Z, ends at 2024-01-01T01:58:00Z.
+Description (short): Dana St: no through traffic allowed from Webster St to Dowling Pl
+Description (long): No through traffic allowed due to barricades on Dana St both ways from Webster St to Dowling Pl.
+Description (Text-to-Speech): On Dana Street both ways, from Webster Street, to Dowling Place, no through traffic is allowed because of barricades.
+
+Incident ID: 176337755.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-05-22T11:09:44Z, ends at 2024-05-02T00:00:00Z.
+Description (short): Redwood Rd: road closed from Marciel Rd to Camino Alta Mira
+Description (long): Road closed due to construction on Redwood Rd both ways from Marciel Rd to Camino Alta Mira.
+Description (Text-to-Speech): Redwood Road both ways, is closed, from Marciel Road, to Camino Alta Mira, because of construction.
+
+Incident ID: 176344415.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2023-05-22T13:00:10Z, ends at 2024-12-14T02:00:00Z.
+Description (short): Soscol Ferry Rd N/B: road closed from Devlin Rd to CA-12
+Description (long): Road closed due to construction on Soscol Ferry Rd Northbound from Devlin Rd to CA-12.
+Description (Text-to-Speech): Soscol Ferry Road Northbound, is closed, from Devlin Road, to CA-12, because of construction.
+
+Incident ID: 176351342.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-22T15:19:00Z, ends at 2025-06-20T16:00:00Z.
+Description (short): Grundy Ln: no through traffic allowed from Cherry Ave to Elm Ave
+Description (long): No through traffic allowed due to construction on Grundy Ln both ways from Cherry Ave to Elm Ave.
+Description (Text-to-Speech): On Grundy Lane both ways, from Cherry Avenue, to Elm Avenue, no through traffic is allowed because of construction.
+
+Incident ID: 176352073.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-22T15:34:27Z, ends at 2026-01-01T00:00:00Z.
+Description (short): B St: no through traffic allowed from 1st Ave to 3rd Ave
+Description (long): No through traffic allowed due to open streets on B St both ways from 1st Ave to 3rd Ave.
+Description (Text-to-Speech): On B Street both ways, from 1st Avenue, to 3rd Avenue, no through traffic is allowed because of open streets.
+
+Incident ID: 176353053.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-05-22T15:55:00Z, ends at 2025-12-31T17:23:00Z.
+Description (short): Castro St: road closed from California St to Evelyn Ave
+Description (long): Road closed due to open streets on Castro St both ways from California St to Evelyn Ave.
+Description (Text-to-Speech): Castro Street both ways, is closed, from California Street, to Evelyn Avenue, because of open streets.
+
+Incident ID: 176353746.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-22T16:14:55Z, ends at 2025-01-22T17:41:00Z.
+Description (short): Centennial Blvd: road closed from Tasman Dr to Stars And Stripes Dr
+Description (long): Road closed due to construction on Centennial Blvd both ways from Tasman Dr to Stars And Stripes Dr.
+Description (Text-to-Speech): Centennial Boulevard both ways, is closed, from Tasman Drive, to Stars And Stripes Drive, because of construction.
+
+Incident ID: 176951281.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-06-01T09:30:17Z, ends at 2024-01-01T14:00:00Z.
+Description (short): Mines Rd: road closed from East Ave to Dana Cir
+Description (long): Road closed and road surface in poor condition due to construction work on Mines Rd both ways from East Ave to Dana Cir.
+Description (Text-to-Speech): Mines Road both ways, is closed, from East Avenue, to Dana Cir, because of construction work.
+
+Incident ID: 177038396.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-06-02T13:51:08Z, ends at 2024-06-02T14:19:00Z.
+Description (short): Dry Creek Rd: road closed from Orchard Ave to Oakville Grade
+Description (long): Road closed due to maintenance work on Dry Creek Rd both ways from Orchard Ave to Oakville Grade.
+Description (Text-to-Speech): Dry Creek Road both ways, is closed, from Orchard Avenue, to Oakville Grade, because of maintenance work.
+
+Incident ID: 177386565.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-06-12T15:00:00Z, ends at 2024-03-05T20:00:00Z.
+Description (short): CA-61 Encinal Ave: lane closed from Sherman St to Broadway
+Description (long): Lane closed due to construction work on CA-61 Encinal Ave both ways from Sherman St to Broadway.
+Description (Text-to-Speech): On CA-61 Encinal Avenue both ways, from Sherman Street, to Broadway, there is a lane closed because of construction work.
+
+Incident ID: 178556173.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-06-27T12:16:13Z, ends at 2026-06-27T12:45:00Z.
+Description (short): Colonade Sq: no through traffic allowed from Rose Ave to Florence Ave
+Description (long): No through traffic allowed due to new road layout on Colonade Sq both ways from Rose Ave to Florence Ave.
+Description (Text-to-Speech): On Colonade Sq both ways, from Rose Avenue, to Florence Avenue, no through traffic is allowed because of a new road layout.
+
+Incident ID: 178925957.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-07-03T08:25:07Z, ends at 2024-01-01T00:01:00Z.
+Description (short): CA-84 La Honda Rd: single alternate line traffic at Madera Ln
+Description (long): Single alternate line traffic due to construction on CA-84 La Honda Rd both ways at Madera Ln.
+Description (Text-to-Speech): On CA-84 La Honda Road both ways, at Madera Lane, there is single alternate line traffic because of construction.
+
+Incident ID: 178926045.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-07-03T08:25:07Z, ends at 2023-12-31T23:01:00Z.
+Description (short): CA-236 Big Basin Way: single alternate line traffic from CA-9 to Waterman Gap Loop
+Description (long): Single alternate line traffic due to construction on CA-236 Big Basin Way both ways from CA-9 to Waterman Gap Loop.
+Description (Text-to-Speech): On CA-236 Big Basin Way both ways, from CA-9, to Waterman Gap Loop, there is single alternate line traffic because of construction.
+
+Incident ID: 178971872.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2023-07-04T08:11:21Z, ends at 2027-01-01T07:59:00Z.
+Description (short): Bay Brg N/B: exit ramp to Treasure Island Rd N/B closed.
+Description (long): Exit ramp from Bay Brg Northbound to Treasure Island Rd Northbound closed due to construction.
+Description (Text-to-Speech): The exit ramp from Bay Bridge Northbound, to Treasure Island Road Northbound, is closed because of construction.
+
+Incident ID: 178971883.
+Location: Country code 1, Southbound.
+Schedule: Starts at 2023-07-04T08:11:21Z, ends at 2027-01-01T07:59:00Z.
+Description (short): Bay Brg S/B: entry ramp from Treasure Island Rd S/B closed.
+Description (long): Entry ramp to Bay Brg Southbound from Treasure Island Rd Southbound closed due to construction.
+Description (Text-to-Speech): The entry ramp to Bay Bridge Southbound, from Treasure Island Road Southbound, is closed because of construction.
+
+Incident ID: 179320755.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-07-10T15:29:23Z, ends at 2024-07-11T06:59:00Z.
+Description (short): Caliente Dr: road closed from Wedgewood St to Washington Ave
+Description (long): Road closed due to gated community on Caliente Dr both ways from Wedgewood St to Washington Ave.
+Description (Text-to-Speech): Caliente Drive both ways, is closed, from Wedgewood Street, to Washington Avenue, because of gated community.
+
+Incident ID: 180312252.
+Location: Country code 1, Westbound.
+Schedule: Starts at 2023-08-02T08:19:08Z, ends at 2024-01-01T08:00:00Z.
+Description (short): CA-92 W/B: lane closed at CA-35 Skyline Blvd
+Description (long): Lane closed due to construction work on CA-92 Westbound at CA-35 Skyline Blvd.
+Description (Text-to-Speech): On CA-92 Westbound, at CA-35 Skyline Boulevard, there is a lane closed because of construction work.
+
+Incident ID: 180462217.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-08-07T14:54:26Z, ends at 2024-06-01T07:01:00Z.
+Description (short): CA-61 Encinal Ave: intermittent lane closures between Sherman St and Broadway
+Description (long): Intermittent lane closures due to construction work on CA-61 Encinal Ave both ways between Sherman St and Broadway.
+Description (Text-to-Speech): On CA-61 Encinal Avenue both ways, between Sherman Street, and Broadway, there are intermittent lane closures because of construction work.
+
+Incident ID: 180601776.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-09T00:00:00Z, ends at 2023-12-09T06:00:00Z.
+Description (short): Hayes St: road closed from Gough St to Octavia Blvd
+Description (long): Road closed due to Open Streets on Hayes St both ways from Gough St to Octavia Blvd.
+Description (Text-to-Speech): Hayes Street both ways, is closed, from Gough Street, to Octavia Boulevard, because of Open Streets.
+
+Incident ID: 180601799.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-02T18:00:00Z, ends at 2023-12-03T06:00:00Z.
+Description (short): Hayes St: road closed from Gough St to Octavia Blvd
+Description (long): Road closed due to Open Streets on Hayes St both ways from Gough St to Octavia Blvd.
+Description (Text-to-Speech): Hayes Street both ways, is closed, from Gough Street, to Octavia Boulevard, because of Open Streets.
+
+Incident ID: 181020195.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-08-28T10:41:40Z, ends at 2024-08-29T06:59:00Z.
+Description (short): Clayton Rd: road closed from Casa Madeira Ln to CA-130 Mt Hamilton Rd
+Description (long): Road closed due to construction work on Clayton Rd both ways from Casa Madeira Ln to CA-130 Mt Hamilton Rd.
+Description (Text-to-Speech): Clayton Road both ways, is closed, from Casa Madeira Lane, to CA-130 Mt Hamilton Road, because of construction work.
+
+Incident ID: 181239383.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-07T13:00:00Z, ends at 2023-12-08T07:59:00Z.
+Description (short): John F Kennedy Dr: road closed between 8th Ave and Kezar Dr
+Description (long): Road closed due to the San Francisco Recreation & Parks Holiday Tree Lighting on John F Kennedy Dr both ways between 8th Ave and Kezar Dr.
+Description (Text-to-Speech): John F Kennedy Drive both ways, is closed, between 8th Avenue, and Kezar Drive, because of the San Francisco Recreation & Parks Holiday Tree Lighting.
+
+Incident ID: 181239427.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-07T13:00:00Z, ends at 2023-12-08T07:59:00Z.
+Description (short): Nancy Pelosi Dr: road closed between Bowling Green Dr and John F Kennedy Dr
+Description (long): Road closed due to the San Francisco Recreation & Parks Holiday Tree Lighting on Nancy Pelosi Dr both ways between Bowling Green Dr and John F Kennedy Dr.
+Description (Text-to-Speech): Nancy Pelosi Drive both ways, is closed, between Bowling Green Drive, and John F Kennedy Drive, because of the San Francisco Recreation & Parks Holiday Tree Lighting.
+
+Incident ID: 181239434.
+Location: Country code 0, Westbound.
+Schedule: Starts at 2023-12-07T13:00:00Z, ends at 2023-12-08T07:59:00Z.
+Description (short): Conservatory Dr W/B: road closed between John F Kennedy Dr and Arguello Blvd
+Description (long): Road closed due to the San Francisco Recreation & Parks Holiday Tree Lighting on Conservatory Dr Westbound between John F Kennedy Dr and Arguello Blvd.
+Description (Text-to-Speech): Conservatory Drive Westbound, is closed, between John F Kennedy Drive, and Arguello Boulevard, because of the San Francisco Recreation & Parks Holiday Tree Lighting.
+
+Incident ID: 181239440.
+Location: Country code 0, Westbound.
+Schedule: Starts at 2023-12-07T13:00:00Z, ends at 2023-12-08T07:59:00Z.
+Description (short): Conservatory Dr W/B: road closed between Arguello Blvd and John F Kennedy Dr
+Description (long): Road closed due to the San Francisco Recreation & Parks Holiday Tree Lighting on Conservatory Dr Westbound between Arguello Blvd and John F Kennedy Dr.
+Description (Text-to-Speech): Conservatory Drive Westbound, is closed, between Arguello Boulevard, and John F Kennedy Drive, because of the San Francisco Recreation & Parks Holiday Tree Lighting.
+
+Incident ID: 181307113.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-09-12T14:21:47Z, ends at 2026-09-12T14:48:00Z.
+Description (short): Lewelling Blvd: height limit of 14'5 feet between Hesperian Blvd and Tropic Ct
+Description (long): Height limit of 14'5 feet on Lewelling Blvd both ways between Hesperian Blvd and Tropic Ct.
+Description (Text-to-Speech): On Lewelling Boulevard both ways, between Hesperian Boulevard, and Tropic Ct, there is a height restriction.
+
+Incident ID: 181493143.
+Location: Country code 1, Eastbound.
+Schedule: Starts at 2023-06-26T17:00:00Z, ends at 2029-01-20T08:00:00Z.
+Description (short): CA-9 Congress Springs Rd E/B: single alternate line traffic at Redwood Gulch
+Description (long): Single alternate line traffic due to construction work on CA-9 Congress Springs Rd Eastbound at Redwood Gulch.
+Description (Text-to-Speech): On CA-9 Congress Springs Road Eastbound, at Redwood Gulch, there is single alternate line traffic because of construction work.
+
+Incident ID: 181493145.
+Location: Country code 1, Southbound.
+Schedule: Starts at 2023-07-03T08:25:07Z, ends at 2024-01-01T07:59:00Z.
+Description (short): CA-1 Cabrillo Hwy S/B: single alternate line traffic at Pescadero Creek Rd
+Description (long): Single alternate line traffic due to construction work on CA-1 Cabrillo Hwy Southbound at Pescadero Creek Rd.
+Description (Text-to-Speech): On CA-1 Cabrillo Highway Southbound, at Pescadero Creek Road, there is single alternate line traffic because of construction work.
+
+Incident ID: 181493146.
+Location: Country code 1, Eastbound.
+Schedule: Starts at 2023-07-10T12:15:00Z, ends at 2024-01-01T07:59:00Z.
+Description (short): CA-84 La Honda Rd E/B: single alternate line traffic after CA-1 Cabrillo Hwy
+Description (long): Single alternate line traffic due to construction work on CA-84 La Honda Rd Eastbound after CA-1 Cabrillo Hwy.
+Description (Text-to-Speech): On CA-84 La Honda Road Eastbound, after CA-1 Cabrillo Highway, there is single alternate line traffic because of construction work.
+
+Incident ID: 181493202.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-08-17T21:45:00Z, ends at 2024-01-01T07:59:00Z.
+Description (short): CA-1: single alternate line traffic at Millerton Pt
+Description (long): Single alternate line traffic due to construction work on CA-1 both ways at Millerton Pt.
+Description (Text-to-Speech): On CA-1 both ways, at Millerton Point, there is single alternate line traffic because of construction work.
+
+Incident ID: 181615846.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-09T15:00:00Z, ends at 2023-12-10T05:00:00Z.
+Description (short): Broadway: road closed between Webster St and Buchanan St
+Description (long): Road closed due to The Hamlin School Winterfest Event on Broadway both ways between Webster St and Buchanan St.
+Description (Text-to-Speech): Broadway both ways, is closed, between Webster Street, and Buchanan Street, because of The Hamlin School Winterfest Event.
+
+Incident ID: 181615939.
+Location: Country code 0, both ways.
+Schedule: Starts at 2024-01-06T14:00:00Z, ends at 2024-01-06T22:00:00Z.
+Description (short): Greenwich St: road closed between Columbus Ave and Powell St
+Description (long): Road closed due to North Beach Farmers Market on Greenwich St both ways between Columbus Ave and Powell St.
+Description (Text-to-Speech): Greenwich Street both ways, is closed, between Columbus Avenue, and Powell Street, because of North Beach Farmers Market.
+
+Incident ID: 181704327.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2023-12-03T04:00:00Z, ends at 2023-12-03T13:00:00Z.
+Description (short): I-880 N/B: intermittent lane closures from Exits 13,13B to Exit 22
+Description (long): Intermittent lane closures due to long-term construction on I-880 Northbound from Exits 13,13B Fremont Blvd to Exit 22 Alvarado Blvd.
+Description (Text-to-Speech): On I-880 Northbound, from Exit 13 for Fremont Boulevard, to Exit 22 for Alvarado Boulevard, there are intermittent lane closures because of long-term construction.
+
+Incident ID: 181704328.
+Location: Country code 1, Southbound.
+Schedule: Starts at 2023-12-03T05:30:00Z, ends at 2023-12-03T13:00:00Z.
+Description (short): I-880 S/B: intermittent lane closures from Exit 22 to Exits 13,13B
+Description (long): Intermittent lane closures due to long-term construction on I-880 Southbound from Exit 22 Alvarado Blvd to Exits 13,13B Fremont Blvd.
+Description (Text-to-Speech): On I-880 Southbound, from Exit 22 for Alvarado Boulevard, to Exit 13 for Fremont Boulevard, there are intermittent lane closures because of long-term construction.
+
+Incident ID: 181704547.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-10-02T08:54:22Z, ends at 2024-09-01T06:59:00Z.
+Description (short): Fulton St: no through traffic allowed from Larkin St to Hyde St
+Description (long): No through traffic allowed due to Fulton Plaza Markets on Fulton St both ways from Larkin St to Hyde St.
+Description (Text-to-Speech): On Fulton Street both ways, from Larkin Street, to Hyde Street, no through traffic is allowed because of Fulton Plaza Markets.
+
+Incident ID: 181706009.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-10-02T11:17:57Z, ends at 2024-03-28T21:00:00Z.
+Description (short): Lapu Lapu St: Main roadway closed at Rizal St
+Description (long): Main roadway closed due to major event on Lapu Lapu St both ways at Rizal St.
+Description (Text-to-Speech): On Lapu Lapu Street both ways, at Rizal Street, the main road is closed, with traffic being routed around the junction and back on again, because of a major event.
+
+Incident ID: 181706036.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-10-02T11:19:32Z, ends at 2024-12-31T21:00:00Z.
+Description (short): Mabini St: no through traffic allowed from Bonifacio St to Folsom St
+Description (long): No through traffic allowed due to slow streets on Mabini St both ways from Bonifacio St to Folsom St.
+Description (Text-to-Speech): On Mabini Street both ways, from Bonifacio Street, to Folsom Street, no through traffic is allowed because of slow streets.
+
+Incident ID: 181713176.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-02T22:00:00Z, ends at 2023-12-03T07:00:00Z.
+Description (short): Alabama St: road closed from 19th St to 20th St
+Description (long): Road closed due to outside dining on Alabama St both ways from 19th St to 20th St.
+Description (Text-to-Speech): Alabama Street both ways, is closed, from 19th Street, to 20th Street, because of outside dining.
+
+Incident ID: 181713195.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-07T15:00:00Z, ends at 2023-12-08T00:00:00Z.
+Description (short): Alabama St: road closed from 19th St to 20th St
+Description (long): Road closed due to Mission Food Hub on Alabama St both ways from 19th St to 20th St.
+Description (Text-to-Speech): Alabama Street both ways, is closed, from 19th Street, to 20th Street, because of Mission Food Hub.
+
+Incident ID: 181713218.
+Location: Country code 0, both ways.
+Schedule: Starts at 2024-03-06T22:00:00Z, ends at 2024-03-07T07:00:00Z.
+Description (short): Alabama St: road closed from 19th St to 20th St
+Description (long): Road closed due to outside dining on Alabama St both ways from 19th St to 20th St.
+Description (Text-to-Speech): Alabama Street both ways, is closed, from 19th Street, to 20th Street, because of outside dining.
+
+Incident ID: 181713687.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-10-02T18:12:07Z, ends at 2024-04-01T13:59:00Z.
+Description (short): Armstrong Ave: road closed from Jennings St to Keith St
+Description (long): Road closed due to COVID vaccine center on Armstrong Ave both ways from Jennings St to Keith St.
+Description (Text-to-Speech): Armstrong Avenue both ways, is closed, from Jennings Street, to Keith Street, because of COVID vaccine center.
+
+Incident ID: 181714202.
+Location: Country code 0, Westbound.
+Schedule: Starts at 2023-12-04T08:00:00Z, ends at 2023-12-05T07:59:59Z.
+Description (short): Commercial St W/B: road closed from Sansome St to Leidesdorff St
+Description (long): Road closed due to outdoor dining on Commercial St Westbound from Sansome St to Leidesdorff St.
+Description (Text-to-Speech): Commercial Street Westbound, is closed, from Sansome Street, to Leidesdorff Street, because of outdoor dining.
+
+Incident ID: 181714468.
+Location: Country code 0, Southbound.
+Schedule: Starts at 2023-12-02T16:00:00Z, ends at 2023-12-03T06:00:00Z.
+Description (short): Trinity St S/B: road closed from Bush St to Sutter St
+Description (long): Road closed due to slow streets on Trinity St Southbound from Bush St to Sutter St.
+Description (Text-to-Speech): Trinity Street Southbound, is closed, from Bush Street, to Sutter Street, because of slow streets.
+
+Incident ID: 181849723.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-10-02T16:00:00Z, ends at 2023-12-11T02:00:00Z.
+Description (short): CA-35 Skyline Blvd: road closed from Summit Rd to Skyline Blvd
+Description (long): Road closed due to construction on CA-35 Skyline Blvd both ways from Summit Rd to Skyline Blvd.
+Description (Text-to-Speech): CA-35 Skyline Boulevard both ways, is closed, from Summit Road, to Skyline Boulevard, because of construction.
+
+Incident ID: 181852018.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-03T14:00:00Z, ends at 2023-12-04T00:00:00Z.
+Description (short): 37th Ave: road closed from Ortega St to Quintara St
+Description (long): Road closed due to Outer Sunset Farmers Market on 37th Ave both ways from Ortega St to Quintara St.
+Description (Text-to-Speech): 37th Avenue both ways, is closed, from Ortega Street, to Quintara Street, because of Outer Sunset Farmers Market.
+
+Incident ID: 181852056.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-02T15:30:00Z, ends at 2023-12-03T01:30:00Z.
+Description (short): 37th Ave: road closed from Ortega St to Pacheco St
+Description (long): Road closed due to Secondhand Saturdays on 37th Ave both ways from Ortega St to Pacheco St.
+Description (Text-to-Speech): 37th Avenue both ways, is closed, from Ortega Street, to Pacheco Street, because of Secondhand Saturdays.
+
+Incident ID: 181852112.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-07T15:00:00Z, ends at 2023-12-08T00:00:00Z.
+Description (short): Alabama St: road closed from 20th St to 19th St
+Description (long): Road closed due to Mission Food Hub on Alabama St both ways from 20th St to 19th St.
+Description (Text-to-Speech): Alabama Street both ways, is closed, from 20th Street, to 19th Street, because of Mission Food Hub.
+
+Incident ID: 181852144.
+Location: Country code 0, Eastbound.
+Schedule: Starts at 2023-12-02T21:00:00Z, ends at 2023-12-03T07:00:00Z.
+Description (short): Austin St E/B: road closed from US-101 Van Ness Ave to Polk St
+Description (long): Road closed due to Lower Polk on Austin St Eastbound from US-101 Van Ness Ave to Polk St.
+Description (Text-to-Speech): Austin Street Eastbound, is closed, from US-101 Van Ness Avenue, to Polk Street, because of Lower Polk.
+
+Incident ID: 181852218.
+Location: Country code 0, Eastbound.
+Schedule: Starts at 2023-12-02T20:00:00Z, ends at 2023-12-03T02:00:00Z.
+Description (short): Fern St E/B: road closed from Polk St to Larkin St
+Description (long): Road closed due to Music City on Fern St Eastbound from Polk St to Larkin St.
+Description (Text-to-Speech): Fern Street Eastbound, is closed, from Polk Street, to Larkin Street, because of Music City.
+
+Incident ID: 181852221.
+Location: Country code 0, Eastbound.
+Schedule: Starts at 2023-12-03T20:00:00Z, ends at 2023-12-04T00:00:00Z.
+Description (short): Fern St E/B: road closed from Polk St to Larkin St
+Description (long): Road closed due to Music City on Fern St Eastbound from Polk St to Larkin St.
+Description (Text-to-Speech): Fern Street Eastbound, is closed, from Polk Street, to Larkin Street, because of Music City.
+
+Incident ID: 181852591.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2023-12-02T17:00:00Z, ends at 2023-12-03T03:00:00Z.
+Description (short): Grant Ave N/B: road closed between Sacramento St and Clay St
+Description (long): Road closed due to an event on Grant Ave Northbound between Sacramento St and Clay St.
+Description (Text-to-Speech): Grant Avenue Northbound, is closed, between Sacramento Street, and Clay Street, because of an event.
+
+Incident ID: 181852633.
+Location: Country code 0, Westbound.
+Schedule: Starts at 2023-12-02T17:00:00Z, ends at 2023-12-03T03:00:00Z.
+Description (short): Commercial St W/B: road closed between Kearny St and Grant Ave
+Description (long): Road closed due to an event on Commercial St Westbound between Kearny St and Grant Ave.
+Description (Text-to-Speech): Commercial Street Westbound, is closed, between Kearny Street, and Grant Avenue, because of an event.
+
+Incident ID: 181852846.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2023-12-09T19:00:00Z, ends at 2023-12-10T02:00:00Z.
+Description (short): Larkin St N/B: road closed between Eddy St and O'Farrell St
+Description (long): Road closed due to Tenderloin on Larkin St Northbound between Eddy St and O'Farrell St.
+Description (Text-to-Speech): Larkin Street Northbound, is closed, between Eddy Street, and O'Farrell Street, because of Tenderloin.
+
+Incident ID: 181852905.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-03T16:30:00Z, ends at 2023-12-04T02:30:00Z.
+Description (short): Noe St: road closed between Beaver St and Market St
+Description (long): Road closed due to Castro Art Mart on Noe St both ways between Beaver St and Market St.
+Description (Text-to-Speech): Noe Street both ways, is closed, between Beaver Street, and Market Street, because of Castro Art Mart.
+
+Incident ID: 181852907.
+Location: Country code 0, both ways.
+Schedule: Starts at 2024-01-06T16:30:00Z, ends at 2024-01-07T02:30:00Z.
+Description (short): Noe St: road closed between Beaver St and Market St
+Description (long): Road closed due to Castro Art Mart on Noe St both ways between Beaver St and Market St.
+Description (Text-to-Speech): Noe Street both ways, is closed, between Beaver Street, and Market Street, because of Castro Art Mart.
+
+Incident ID: 181852912.
+Location: Country code 0, both ways.
+Schedule: Starts at 2024-02-04T16:30:00Z, ends at 2024-02-05T02:30:00Z.
+Description (short): Noe St: road closed between Beaver St and Market St
+Description (long): Road closed due to Castro Art Mart on Noe St both ways between Beaver St and Market St.
+Description (Text-to-Speech): Noe Street both ways, is closed, between Beaver Street, and Market Street, because of Castro Art Mart.
+
+Incident ID: 181852915.
+Location: Country code 0, both ways.
+Schedule: Starts at 2024-03-03T16:30:00Z, ends at 2024-03-04T02:30:00Z.
+Description (short): Noe St: road closed between Beaver St and Market St
+Description (long): Road closed due to Castro Art Mart on Noe St both ways between Beaver St and Market St.
+Description (Text-to-Speech): Noe Street both ways, is closed, between Beaver Street, and Market Street, because of Castro Art Mart.
+
+Incident ID: 181852975.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-24T16:30:00Z, ends at 2023-12-25T02:30:00Z.
+Description (short): Otsego Ave: road closed between Ocean Ave and Onondaga Ave
+Description (long): Road closed due to Excelsior Action Group on Otsego Ave both ways between Ocean Ave and Onondaga Ave.
+Description (Text-to-Speech): Otsego Avenue both ways, is closed, between Ocean Avenue, and Onondaga Avenue, because of Excelsior Action Group.
+
+Incident ID: 181852981.
+Location: Country code 0, both ways.
+Schedule: Starts at 2024-01-28T16:30:00Z, ends at 2024-01-29T02:30:00Z.
+Description (short): Otsego Ave: road closed between Ocean Ave and Onondaga Ave
+Description (long): Road closed due to Excelsior Action Group on Otsego Ave both ways between Ocean Ave and Onondaga Ave.
+Description (Text-to-Speech): Otsego Avenue both ways, is closed, between Ocean Avenue, and Onondaga Avenue, because of Excelsior Action Group.
+
+Incident ID: 181852985.
+Location: Country code 0, both ways.
+Schedule: Starts at 2024-02-25T16:30:00Z, ends at 2024-02-26T02:30:00Z.
+Description (short): Otsego Ave: road closed between Ocean Ave and Onondaga Ave
+Description (long): Road closed due to Excelsior Action Group on Otsego Ave both ways between Ocean Ave and Onondaga Ave.
+Description (Text-to-Speech): Otsego Avenue both ways, is closed, between Ocean Avenue, and Onondaga Avenue, because of Excelsior Action Group.
+
+Incident ID: 181852988.
+Location: Country code 0, both ways.
+Schedule: Starts at 2024-03-24T15:30:00Z, ends at 2024-03-25T01:30:00Z.
+Description (short): Otsego Ave: road closed between Ocean Ave and Onondaga Ave
+Description (long): Road closed due to Excelsior Action Group on Otsego Ave both ways between Ocean Ave and Onondaga Ave.
+Description (Text-to-Speech): Otsego Avenue both ways, is closed, between Ocean Avenue, and Onondaga Avenue, because of Excelsior Action Group.
+
+Incident ID: 181853099.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-04T18:00:00Z, ends at 2023-12-05T06:00:00Z.
+Description (short): 12th St: road closed between Bernice St and Harrison St
+Description (long): Road closed due to SF Eagle on 12th St both ways between Bernice St and Harrison St.
+Description (Text-to-Speech): 12th Street both ways, is closed, between Bernice Street, and Harrison Street, because of SF Eagle.
+
+Incident ID: 181853106.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-02T18:00:00Z, ends at 2023-12-03T06:00:00Z.
+Description (short): 12th St: road closed between Bernice St and Harrison St
+Description (long): Road closed due to SF Eagle on 12th St both ways between Bernice St and Harrison St.
+Description (Text-to-Speech): 12th Street both ways, is closed, between Bernice Street, and Harrison Street, because of SF Eagle.
+
+Incident ID: 181853170.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-03T00:00:00Z, ends at 2023-12-03T08:00:00Z.
+Description (short): Gold St: road closed from Montgomery St to Balance St
+Description (long): Road closed due to an event on Gold St both ways from Montgomery St to Balance St.
+Description (Text-to-Speech): Gold Street both ways, is closed, from Montgomery Street, to Balance Street, because of an event.
+
+Incident ID: 181853229.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-02T22:00:00Z, ends at 2023-12-03T07:00:00Z.
+Description (short): Harlan Pl: road closed between Bush St and Grant Ave
+Description (long): Road closed due to an event on Harlan Pl both ways between Bush St and Grant Ave.
+Description (Text-to-Speech): Harlan Place both ways, is closed, between Bush Street, and Grant Avenue, because of an event.
+
+Incident ID: 181853284.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-05T01:00:00Z, ends at 2023-12-05T09:30:00Z.
+Description (short): Maiden Ln: road closed between Kearny St and Grant Ave
+Description (long): Road closed due to an event on Maiden Ln both ways between Kearny St and Grant Ave.
+Description (Text-to-Speech): Maiden Lane both ways, is closed, between Kearny Street, and Grant Avenue, because of an event.
+
+Incident ID: 181853286.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-03T01:00:00Z, ends at 2023-12-03T09:30:00Z.
+Description (short): Maiden Ln: road closed between Kearny St and Grant Ave
+Description (long): Road closed due to an event on Maiden Ln both ways between Kearny St and Grant Ave.
+Description (Text-to-Speech): Maiden Lane both ways, is closed, between Kearny Street, and Grant Avenue, because of an event.
+
+Incident ID: 181855717.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-03T14:00:00Z, ends at 2023-12-04T00:00:00Z.
+Description (short): Pacheco St: road closed from 37th Ave to Sunset Blvd
+Description (long): Road closed due to Outer Sunset Farmers Market on Pacheco St both ways from 37th Ave to Sunset Blvd.
+Description (Text-to-Speech): Pacheco Street both ways, is closed, from 37th Avenue, to Sunset Boulevard, because of Outer Sunset Farmers Market.
+
+Incident ID: 181855899.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-03T15:00:00Z, ends at 2023-12-03T23:30:00Z.
+Description (short): Clement St: road closed from 4th Ave to Arguello Blvd
+Description (long): Road closed due to Clement Street Farmers Market on Clement St both ways from 4th Ave to Arguello Blvd.
+Description (Text-to-Speech): Clement Street both ways, is closed, from 4th Avenue, to Arguello Boulevard, because of Clement Street Farmers Market.
+
+Incident ID: 181872840.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-02T17:00:00Z, ends at 2023-12-03T01:00:00Z.
+Description (short): Ritch St: road closed between Townsend St and Brannan St
+Description (long): Road closed due to an event on Ritch St both ways between Townsend St and Brannan St.
+Description (Text-to-Speech): Ritch Street both ways, is closed, between Townsend Street, and Brannan Street, because of an event.
+
+Incident ID: 181889371.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-02T18:00:00Z, ends at 2023-12-03T06:00:00Z.
+Description (short): Leidesdorff St: road closed from Sacramento St to Commercial St
+Description (long): Road closed due to an event on Leidesdorff St both ways from Sacramento St to Commercial St.
+Description (Text-to-Speech): Leidesdorff Street both ways, is closed, from Sacramento Street, to Commercial Street, because of an event.
+
+Incident ID: 181889372.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-03T18:00:00Z, ends at 2023-12-04T05:00:00Z.
+Description (short): Leidesdorff St: road closed from Commercial St to Sacramento St
+Description (long): Road closed due to an event on Leidesdorff St both ways from Commercial St to Sacramento St.
+Description (Text-to-Speech): Leidesdorff Street both ways, is closed, from Commercial Street, to Sacramento Street, because of an event.
+
+Incident ID: 182214347.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-10-26T14:21:31Z, ends at 2024-12-31T15:44:00Z.
+Description (short): Lapu Lapu St: no through traffic allowed from Rizal St to Harrison St
+Description (long): No through traffic allowed due to slow streets on Lapu Lapu St both ways from Rizal St to Harrison St.
+Description (Text-to-Speech): On Lapu Lapu Street both ways, from Rizal Street, to Harrison Street, no through traffic is allowed because of slow streets.
+
+Incident ID: 182214976.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-10-26T14:45:05Z, ends at 2024-12-31T16:09:00Z.
+Description (short): Twin Peaks Blvd: road closed from Burnett Ave to Christmas Tree Point Rd
+Description (long): Road closed due to slow streets on Twin Peaks Blvd both ways from Burnett Ave to Christmas Tree Point Rd.
+Description (Text-to-Speech): Twin Peaks Boulevard both ways, is closed, from Burnett Avenue, to Christmas Tree Point Road, because of slow streets.
+
+Incident ID: 182235951.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2023-12-02T17:00:00Z, ends at 2023-12-03T07:00:00Z.
+Description (short): Ulloa St N/B: road closed between Waithman Way and Laguna Honda Blvd
+Description (long): Road closed due to the St. Brendan Parish School Christmas Boutique and Carnival on Ulloa St Northbound between Waithman Way and Laguna Honda Blvd.
+Description (Text-to-Speech): Ulloa Street Northbound, is closed, between Waithman Way, and Laguna Honda Boulevard, because of the St. Brendan Parish School Christmas Boutique and Carnival.
+
+Incident ID: 182238496.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-10-27T13:24:22Z, ends at 2025-02-01T07:59:00Z.
+Description (short): Wildcat Canyon Rd: road closed from Camino Pablo to Park Dr
+Description (long): Road closed and road surface in poor condition on Wildcat Canyon Rd both ways from Camino Pablo to Park Dr.
+Description (Text-to-Speech): Wildcat Canyon Road both ways, is closed, from Camino Pablo, to Park Drive,.
+
+Incident ID: 182276200.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-08T22:00:00Z, ends at 2023-12-09T06:00:00Z.
+Description (short): Ofarrell St: road closed from Steiner St to Fillmore St
+Description (long): Road closed due to Friday night market on Ofarrell St both ways from Steiner St to Fillmore St.
+Description (Text-to-Speech): Ofarrell Street both ways, is closed, from Steiner Street, to Fillmore Street, because of Friday night market.
+
+Incident ID: 182309170.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-10-31T17:46:20Z, ends at 2024-02-01T07:59:00Z.
+Description (short): Tilden Way: intermittent lane closures at Fruitvale Ave
+Description (long): Intermittent lane closures due to maintenance work on Tilden Way both ways at Fruitvale Ave.
+Description (Text-to-Speech): On Tilden Way both ways, at Fruitvale Avenue, there are intermittent lane closures because of maintenance work.
+
+Incident ID: 182324868.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-03T14:00:00Z, ends at 2023-12-04T02:00:00Z.
+Description (short): Washington St: road closed between Divisadero St and Broderick St
+Description (long): Road closed due to an event on Washington St both ways between Divisadero St and Broderick St.
+Description (Text-to-Speech): Washington Street both ways, is closed, between Divisadero Street, and Broderick Street, because of an event.
+
+Incident ID: 182324977.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-02T17:00:00Z, ends at 2023-12-03T04:00:00Z.
+Description (short): Haight St: road closed between Scott St and Fillmore St
+Description (long): Road closed due to an event on Haight St both ways between Scott St and Fillmore St.
+Description (Text-to-Speech): Haight Street both ways, is closed, between Scott Street, and Fillmore Street, because of an event.
+
+Incident ID: 182325058.
+Location: Country code 1, both ways.
+Schedule: Starts at 2024-02-04T15:15:00Z, ends at 2024-02-04T18:00:00Z.
+Description (short): Fell St: road closed between Stanyan St and Broderick St
+Description (long): Road closed due to an event on Fell St both ways between Stanyan St and Broderick St.
+Description (Text-to-Speech): Fell Street both ways, is closed, between Stanyan Street, and Broderick Street, because of an event.
+
+Incident ID: 182372461.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2023-07-31T16:00:00Z, ends at 2023-12-29T17:00:00Z.
+Description (short): I-680 N/B: exit ramp to Mission Blvd East N/B closed.
+Description (long): Exit ramp from I-680 Northbound at Exit 12 to Mission Blvd East Northbound closed due to construction work.
+Description (Text-to-Speech): The exit ramp from I-680 Northbound, at Exit 12 to Mission Boulevard East Northbound, is closed because of construction work.
+
+Incident ID: 182410610.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-18T16:00:00Z, ends at 2023-12-19T00:00:00Z.
+Description (short): 21st St: road closed from Douglass St to Worth St
+Description (long): Road closed due to construction work on 21st St both ways from Douglass St to Worth St.
+Description (Text-to-Speech): 21st Street both ways, is closed, from Douglass Street, to Worth Street, because of construction work.
+
+Incident ID: 182500186.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-04T16:00:00Z, ends at 2023-12-07T02:00:00Z.
+Description (short): Norris Canyon Rd: no through traffic allowed at Crow Canyon Rd
+Description (long): No through traffic allowed due to construction work on Norris Canyon Rd both ways from San Ramon Valley Blvd to Crow Canyon Rd.
+Description (Text-to-Speech): On Norris Canyon Road both ways, from San Ramon Valley Boulevard, to Crow Canyon Road, no through traffic is allowed because of construction work.
+
+Incident ID: 182519072.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-02T21:00:00Z, ends at 2023-12-03T06:00:00Z.
+Description (short): Jack Kerouac Aly: road closed from Grant Ave to Columbus Ave
+Description (long): Road closed due to shared spaces on Jack Kerouac Aly both ways from Grant Ave to Columbus Ave.
+Description (Text-to-Speech): Jack Kerouac Alley both ways, is closed, from Grant Avenue, to Columbus Avenue, because of shared spaces.
+
+Incident ID: 182525434.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-11-10T18:12:03Z, ends at 2024-11-10T18:40:00Z.
+Description (short): Lake Chabot Rd: road closed from Chabot Ter to Astor Dr
+Description (long): Road closed due to construction work on Lake Chabot Rd both ways from Chabot Ter to Astor Dr.
+Description (Text-to-Speech): Lake Chabot Road both ways, is closed, from Chabot Terrace, to Astor Drive, because of construction work.
+
+Incident ID: 182559683.
+Location: Country code 0, Westbound.
+Schedule: Starts at 2023-12-09T15:00:00Z, ends at 2023-12-09T23:00:00Z.
+Description (short): Minna St W/B: road closed from Russ St to 7th St
+Description (long): Road closed due to mobile crane in use on Minna St Westbound from Russ St to 7th St.
+Description (Text-to-Speech): Minna Street Westbound, is closed, from Russ Street, to 7th Street, because of mobile crane in use.
+
+Incident ID: 182614370.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-10T09:30:00Z, ends at 2023-12-11T01:00:00Z.
+Description (short): Tasman Dr: road closed between Convention Center and Marie P Debartolo Way
+Description (long): Road closed due to Seattle Seahawks @ San Francisco 49ers NFL sports event on Tasman Dr both ways between Convention Center and Marie P Debartolo Way. Starts at 1:05 PM.
+Description (Text-to-Speech): Tasman Drive both ways, is closed, between Convention Center, and Marie P Debartolo Way, because of Seattle Seahawks @ San Francisco 49ers NFL. Starts at 1:05 PM.
+
+Incident ID: 182614402.
+Location: Country code 1, Eastbound.
+Schedule: Starts at 2023-12-10T09:30:00Z, ends at 2023-12-11T01:00:00Z.
+Description (short): Tasman Dr E/B: exit ramp to Stars And Stripes Dr closed.
+Description (long): Exit ramp from Tasman Dr Eastbound to Stars And Stripes Dr closed due to Seattle Seahawks @ San Francisco 49ers NFL sports event. Starts at 1:05 PM.
+Description (Text-to-Speech): The exit ramp from Tasman Drive Eastbound, to Stars And Stripes Drive, is closed because of Seattle Seahawks @ San Francisco 49ers NFL. Starts at 1:05 PM.
+
+Incident ID: 182680587.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-03T14:00:00Z, ends at 2023-12-04T02:00:00Z.
+Description (short): Washington St: road closed between Divisadero St and Broderick St
+Description (long): Road closed due to the SF Waldorf Winter Fair on Washington St both ways between Divisadero St and Broderick St.
+Description (Text-to-Speech): Washington Street both ways, is closed, between Divisadero Street, and Broderick Street, because of the SF Waldorf Winter Fair.
+
+Incident ID: 182680815.
+Location: Country code 1, Eastbound.
+Schedule: Starts at 2023-12-04T08:00:00Z, ends at 2023-12-05T07:59:00Z.
+Description (short): Park Ave E/B: road closed between Almaden Blvd and Market St
+Description (long): Road closed due to Winter Wonderland on Park Ave Eastbound between Almaden Blvd and Market St.
+Description (Text-to-Speech): Park Avenue Eastbound, is closed, between Almaden Boulevard, and Market Street, because of Winter Wonderland.
+
+Incident ID: 182681679.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2023-12-02T17:00:00Z, ends at 2023-12-03T07:00:00Z.
+Description (short): Ulloa St N/B: road closed between Waithman Way and Laguna Honda Blvd
+Description (long): Road closed due to the St. Brendan Parish School Christmas Boutique and Carnival on Ulloa St Northbound between Waithman Way and Laguna Honda Blvd.
+Description (Text-to-Speech): Ulloa Street Northbound, is closed, between Waithman Way, and Laguna Honda Boulevard, because of the St. Brendan Parish School Christmas Boutique and Carnival.
+
+Incident ID: 182776922.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-11-21T12:45:02Z, ends at 2024-04-01T06:59:00Z.
+Description (short): Panoramic Hwy: lane closed at Sequoia Valley Rd
+Description (long): Lane closed due to long-term construction on Panoramic Hwy both ways at Sequoia Valley Rd.
+Description (Text-to-Speech): On Panoramic Highway both ways, at Sequoia Valley Road, there is a lane closed because of long-term construction.
+
+Incident ID: 182778101.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-03T00:00:00Z, ends at 2023-12-03T02:00:00Z.
+Description (short): Georgia St: road closed between Marin St and Mare Island Way
+Description (long): Road closed due to the Vallejo Mad Hatter Holiday Festival & Parade on Georgia St both ways between Marin St and Mare Island Way.
+Description (Text-to-Speech): Georgia Street both ways, is closed, between Marin Street, and Mare Island Way, because of the Vallejo Mad Hatter Holiday Festival & Parade.
+
+Incident ID: 182811687.
+Location: Country code 1, Eastbound.
+Schedule: Starts at 2023-12-03T17:00:00Z, ends at 2023-12-03T23:00:00Z.
+Description (short): CA-12 Sonoma Hwy E/B: right lane closed from Sonoma Hwy to Mission Blvd
+Description (long): Right lane closed and right hand shoulder closed due to construction work on CA-12 Sonoma Hwy Eastbound from Sonoma Hwy to Mission Blvd.
+Description (Text-to-Speech): On CA-12 Sonoma Highway Eastbound, from Sonoma Highway, to Mission Boulevard, the right lane is closed, and the right hand shoulder is closed because of construction work.
+
+Incident ID: 182812743.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-02T14:00:00Z, ends at 2023-12-03T02:00:00Z.
+Description (short): Halleck Alley: road closed from Battery St to Sansome St
+Description (long): Road closed due to construction work on Halleck Alley both ways from Battery St to Sansome St.
+Description (Text-to-Speech): Halleck Alley both ways, is closed, from Battery Street, to Sansome Street, because of construction work.
+
+Incident ID: 182826535.
+Location: Country code 1, Eastbound.
+Schedule: Starts at 2023-11-22T19:25:50Z, ends at 2024-11-22T19:48:00Z.
+Description (short): Taraval St E/B: road closed between 18th Ave and 15th Ave
+Description (long): Road closed due to construction work on Taraval St Eastbound between 18th Ave and 15th Ave.
+Description (Text-to-Speech): Taraval Street Eastbound, is closed, between 18th Avenue, and 15th Avenue, because of construction work.
+
+Incident ID: 182844615.
+Location: Country code 0, Southbound.
+Schedule: Starts at 2023-01-23T23:00:00Z, ends at 2023-12-29T23:00:00Z.
+Description (short): CA-35 Bear Creek Rd S/B: lane closed at Bear Creek Rd Bear Creek Rd Summit Rd
+Description (long): Lane closed due to construction work on CA-35 Bear Creek Rd Southbound at Bear Creek Rd Bear Creek Rd Summit Rd.
+Description (Text-to-Speech): On CA-35 Bear Creek Road Southbound, at Bear Creek Road Bear Creek Road Summit Road, there is a lane closed because of construction work.
+
+Incident ID: 182846811.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-11-23T09:08:01Z, ends at 2024-03-25T21:00:00Z.
+Description (short): Somerset St: road closed between Silliman St and Felton St
+Description (long): Road closed due to an event on Somerset St both ways between Silliman St and Felton St.
+Description (Text-to-Speech): Somerset Street both ways, is closed, between Silliman Street, and Felton Street, because of an event.
+
+Incident ID: 182846903.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-31T20:00:00Z, ends at 2024-01-01T16:00:00Z.
+Description (short): Barneveld Ave: road closed between Apparel Way and Palou Ave
+Description (long): Road closed due to an event on Barneveld Ave both ways between Apparel Way and Palou Ave.
+Description (Text-to-Speech): Barneveld Avenue both ways, is closed, between Apparel Way, and Palou Avenue, because of an event.
+
+Incident ID: 182846946.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-11-23T09:24:40Z, ends at 2024-03-29T21:00:00Z.
+Description (short): 24th Ave: road closed between Quintara St and Pacheco St
+Description (long): Road closed due to an event on 24th Ave both ways between Quintara St and Pacheco St.
+Description (Text-to-Speech): 24th Avenue both ways, is closed, between Quintara Street, and Pacheco Street, because of an event.
+
+Incident ID: 182846961.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-09T16:30:00Z, ends at 2023-12-10T03:00:00Z.
+Description (short): Irving St: road closed between 22nd Ave and 23rd Ave
+Description (long): Road closed due to an event on Irving St both ways between 22nd Ave and 23rd Ave.
+Description (Text-to-Speech): Irving Street both ways, is closed, between 22nd Avenue, and 23rd Avenue, because of an event.
+
+Incident ID: 182847050.
+Location: Country code 1, Southbound.
+Schedule: Starts at 2023-12-11T14:00:00Z, ends at 2023-12-29T07:59:00Z.
+Description (short): Stockton St S/B: road closed from Post St to Geary St
+Description (long): Road closed due to Winter Walk on Stockton St Southbound from Post St to Geary St.
+Description (Text-to-Speech): Stockton Street Southbound, is closed, from Post Street, to Geary Street, because of Winter Walk.
+
+Incident ID: 182847067.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-11T14:00:00Z, ends at 2023-12-29T07:59:00Z.
+Description (short): Maiden Ln: road closed between Grant Ave and Stockton St
+Description (long): Road closed due to an event on Maiden Ln both ways between Grant Ave and Stockton St.
+Description (Text-to-Speech): Maiden Lane both ways, is closed, between Grant Avenue, and Stockton Street, because of an event.
+
+Incident ID: 182847098.
+Location: Country code 1, Southbound.
+Schedule: Starts at 2023-12-11T14:00:00Z, ends at 2023-12-29T07:59:00Z.
+Description (short): Stockton St S/B: road closed from Geary St to O'Farrell St
+Description (long): Road closed due to Winter Walk on Stockton St Southbound from Geary St to O'Farrell St.
+Description (Text-to-Speech): Stockton Street Southbound, is closed, from Geary Street, to O'Farrell Street, because of Winter Walk.
+
+Incident ID: 182847148.
+Location: Country code 1, both ways.
+Schedule: Starts at 2024-06-09T13:00:00Z, ends at 2024-06-09T18:00:00Z.
+Description (short): Marina Blvd: road closed between Scott St and Lyon St
+Description (long): Road closed due to an event on Marina Blvd both ways between Scott St and Lyon St.
+Description (Text-to-Speech): Marina Boulevard both ways, is closed, between Scott Street, and Lyon Street, because of an event.
+
+Incident ID: 182847182.
+Location: Country code 0, both ways.
+Schedule: Starts at 2024-03-03T15:00:00Z, ends at 2024-03-03T23:30:00Z.
+Description (short): Clement St: road closed between 2nd Ave and 3rd Ave
+Description (long): Road closed due to an event on Clement St both ways between 2nd Ave and 3rd Ave.
+Description (Text-to-Speech): Clement Street both ways, is closed, between 2nd Avenue, and 3rd Avenue, because of an event.
+
+Incident ID: 182847211.
+Location: Country code 0, both ways.
+Schedule: Starts at 2024-02-23T15:15:00Z, ends at 2024-02-23T18:00:00Z.
+Description (short): Baker St: road closed between Hayes St and Page St
+Description (long): Road closed due to an event on Baker St both ways between Hayes St and Page St.
+Description (Text-to-Speech): Baker Street both ways, is closed, between Hayes Street, and Page Street, because of an event.
+
+Incident ID: 182847220.
+Location: Country code 0, Westbound.
+Schedule: Starts at 2023-12-11T15:00:00Z, ends at 2023-12-12T04:00:00Z.
+Description (short): Welsh St W/B: road closed from Zoe St to 4th St
+Description (long): Road closed due to construction work on Welsh St Westbound from Zoe St to 4th St.
+Description (Text-to-Speech): Welsh Street Westbound, is closed, from Zoe Street, to 4th Street, because of construction work.
+
+Incident ID: 182847254.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-11-23T09:56:41Z, ends at 2024-03-29T21:00:00Z.
+Description (short): 41st Ave: road closed between Pacheco St and Quintara St
+Description (long): Road closed due to an event on 41st Ave both ways between Pacheco St and Quintara St.
+Description (Text-to-Speech): 41st Avenue both ways, is closed, between Pacheco Street, and Quintara Street, because of an event.
+
+Incident ID: 182847272.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-11-23T09:58:38Z, ends at 2024-01-02T14:00:00Z.
+Description (short): Alameda St: road closed between Potrero Ave and Vermont St
+Description (long): Road closed due to an event on Alameda St both ways between Potrero Ave and Vermont St.
+Description (Text-to-Speech): Alameda Street both ways, is closed, between Potrero Avenue, and Vermont Street, because of an event.
+
+Incident ID: 182847285.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-31T01:00:00Z, ends at 2024-01-02T14:00:00Z.
+Description (short): 15th St: road closed between Potrero Ave and Vermont St
+Description (long): Road closed due to an event on 15th St both ways between Potrero Ave and Vermont St.
+Description (Text-to-Speech): 15th Street both ways, is closed, between Potrero Avenue, and Vermont Street, because of an event.
+
+Incident ID: 182847383.
+Location: Country code 1, Eastbound.
+Schedule: Starts at 2023-12-12T14:00:00Z, ends at 2023-12-13T02:00:00Z.
+Description (short): Golden Gate Ave E/B: road closed from Leavenworth St to Jones St
+Description (long): Road closed due to St. Anthony's - Bridging on Golden Gate Ave Eastbound from Leavenworth St to Jones St.
+Description (Text-to-Speech): Golden Gate Avenue Eastbound, is closed, from Leavenworth Street, to Jones Street, because of St. Anthony's - Bridging.
+
+Incident ID: 182847452.
+Location: Country code 1, Eastbound.
+Schedule: Starts at 2023-12-13T14:00:00Z, ends at 2023-12-14T02:00:00Z.
+Description (short): Golden Gate Ave E/B: road closed from Leavenworth St to Jones St
+Description (long): Road closed due to St. Anthony's - Bridging on Golden Gate Ave Eastbound from Leavenworth St to Jones St.
+Description (Text-to-Speech): Golden Gate Avenue Eastbound, is closed, from Leavenworth Street, to Jones Street, because of St. Anthony's - Bridging.
+
+Incident ID: 182847486.
+Location: Country code 1, Eastbound.
+Schedule: Starts at 2023-12-14T14:00:00Z, ends at 2023-12-15T02:00:00Z.
+Description (short): Golden Gate Ave E/B: road closed from Leavenworth St to Jones St
+Description (long): Road closed due to St. Anthony's - Bridging on Golden Gate Ave Eastbound from Leavenworth St to Jones St.
+Description (Text-to-Speech): Golden Gate Avenue Eastbound, is closed, from Leavenworth Street, to Jones Street, because of St. Anthony's - Bridging.
+
+Incident ID: 182847811.
+Location: Country code 1, Eastbound.
+Schedule: Starts at 2023-12-15T14:00:00Z, ends at 2023-12-16T02:00:00Z.
+Description (short): Golden Gate Ave E/B: road closed from Leavenworth St to Jones St
+Description (long): Road closed due to St. Anthony's - Bridging on Golden Gate Ave Eastbound from Leavenworth St to Jones St.
+Description (Text-to-Speech): Golden Gate Avenue Eastbound, is closed, from Leavenworth Street, to Jones Street, because of St. Anthony's - Bridging.
+
+Incident ID: 182848828.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-04T17:00:00Z, ends at 2023-12-07T02:00:00Z.
+Description (short): Norris Canyon Rd: no through traffic allowed at Bollinger Canyon Rd
+Description (long): No through traffic allowed due to construction on Norris Canyon Rd both ways between Crow Canyon Rd and Bollinger Canyon Rd.
+Description (Text-to-Speech): On Norris Canyon Road both ways, between Crow Canyon Road, and Bollinger Canyon Road, no through traffic is allowed because of construction.
+
+Incident ID: 182864599.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-02T19:00:00Z, ends at 2023-12-03T07:00:00Z.
+Description (short): Mark Ln: road closed from Bush St to Harlan Pl
+Description (long): Road closed due to Open Streets on Mark Ln both ways from Bush St to Harlan Pl.
+Description (Text-to-Speech): Mark Lane both ways, is closed, from Bush Street, to Harlan Place, because of Open Streets.
+
+Incident ID: 182926307.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-05-11T11:03:26Z, ends at 2023-12-17T01:30:00Z.
+Description (short): Washington Blvd: no through traffic allowed from Lincoln Blvd to Kobbe Ave
+Description (long): No through traffic allowed due to slow streets on Washington Blvd both ways from Lincoln Blvd to Kobbe Ave.
+Description (Text-to-Speech): On Washington Boulevard both ways, from Lincoln Boulevard, to Kobbe Avenue, no through traffic is allowed because of slow streets.
+
+Incident ID: 182926448.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-11-27T09:24:05Z, ends at 2023-12-15T07:59:00Z.
+Description (short): 16th St: no through traffic allowed from Missouri St to 7th St
+Description (long): No through traffic allowed due to construction work on 16th St both ways from Missouri St to 7th St.
+Description (Text-to-Speech): On 16th Street both ways, from Missouri Street, to 7th Street, no through traffic is allowed because of construction work.
+
+Incident ID: 182926568.
+Location: Country code 1, Westbound.
+Schedule: Starts at 2023-11-27T08:00:00Z, ends at 2023-12-13T07:59:00Z.
+Description (short): Pine St W/B: no through traffic allowed from Sansome St to Montgomery St
+Description (long): No through traffic allowed due to Downtown SF Partnership on Pine St Westbound from Sansome St to Montgomery St.
+Description (Text-to-Speech): On Pine Street Westbound, from Sansome Street, to Montgomery Street, no through traffic is allowed because of Downtown SF Partnership.
+
+Incident ID: 182926598.
+Location: Country code 0, Westbound.
+Schedule: Starts at 2023-11-27T08:00:00Z, ends at 2023-12-22T07:59:00Z.
+Description (short): Commercial St W/B: no through traffic allowed from Leidesdorff St to Montgomery St
+Description (long): No through traffic allowed due to Downtown SF Partnership on Commercial St Westbound from Leidesdorff St to Montgomery St.
+Description (Text-to-Speech): On Commercial Street Westbound, from Leidesdorff Street, to Montgomery Street, no through traffic is allowed because of Downtown SF Partnership.
+
+Incident ID: 182926719.
+Location: Country code 0, Westbound.
+Schedule: Starts at 2023-12-04T15:00:00Z, ends at 2023-12-05T04:00:00Z.
+Description (short): Welsh St W/B: road closed from Zoe St to 4th St
+Description (long): Road closed due to construction work on Welsh St Westbound from Zoe St to 4th St.
+Description (Text-to-Speech): Welsh Street Westbound, is closed, from Zoe Street, to 4th Street, because of construction work.
+
+Incident ID: 182926766.
+Location: Country code 0, Westbound.
+Schedule: Starts at 2023-12-18T15:00:00Z, ends at 2023-12-19T04:00:00Z.
+Description (short): Welsh St W/B: road closed from Zoe St to 4th St
+Description (long): Road closed due to construction work on Welsh St Westbound from Zoe St to 4th St.
+Description (Text-to-Speech): Welsh Street Westbound, is closed, from Zoe Street, to 4th Street, because of construction work.
+
+Incident ID: 182926797.
+Location: Country code 0, both ways.
+Schedule: Starts at 2024-01-02T08:01:00Z, ends at 2024-01-03T07:59:00Z.
+Description (short): Illinois St: road closed from Mariposa St to 16th St
+Description (long): Road closed due to mobile crane in use on Illinois St both ways from Mariposa St to 16th St.
+Description (Text-to-Speech): Illinois Street both ways, is closed, from Mariposa Street, to 16th Street, because of mobile crane in use.
+
+Incident ID: 182926987.
+Location: Country code 0, Westbound.
+Schedule: Starts at 2023-12-06T00:00:00Z, ends at 2023-12-06T07:00:00Z.
+Description (short): Minna St W/B: road closed from 2nd St to New Montgomery St
+Description (long): Road closed due to Minna Gallery on Minna St Westbound from 2nd St to New Montgomery St.
+Description (Text-to-Speech): Minna Street Westbound, is closed, from 2nd Street, to New Montgomery Street, because of Minna Gallery.
+
+Incident ID: 182927134.
+Location: Country code 0, Westbound.
+Schedule: Starts at 2024-08-09T15:00:00Z, ends at 2024-08-09T23:00:00Z.
+Description (short): Elm St W/B: road closed from Polk St to US-101 Van Ness Ave
+Description (long): Road closed due to Friends of Elm Alley on Elm St Westbound from Polk St to US-101 Van Ness Ave.
+Description (Text-to-Speech): Elm Street Westbound, is closed, from Polk Street, to US-101 Van Ness Avenue, because of Friends of Elm Alley.
+
+Incident ID: 182927226.
+Location: Country code 0, Westbound.
+Schedule: Starts at 2024-05-22T15:00:00Z, ends at 2024-05-22T23:00:00Z.
+Description (short): Elm St W/B: road closed from Polk St to US-101 Van Ness Ave
+Description (long): Road closed due to Friends of Elm Alley on Elm St Westbound from Polk St to US-101 Van Ness Ave.
+Description (Text-to-Speech): Elm Street Westbound, is closed, from Polk Street, to US-101 Van Ness Avenue, because of Friends of Elm Alley.
+
+Incident ID: 182927442.
+Location: Country code 0, Westbound.
+Schedule: Starts at 2024-08-13T15:00:00Z, ends at 2024-08-13T23:00:00Z.
+Description (short): Elm St W/B: road closed from Polk St to US-101 Van Ness Ave
+Description (long): Road closed due to Friends of Elm Alley on Elm St Westbound from Polk St to US-101 Van Ness Ave.
+Description (Text-to-Speech): Elm Street Westbound, is closed, from Polk Street, to US-101 Van Ness Avenue, because of Friends of Elm Alley.
+
+Incident ID: 183000479.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-07T01:00:00Z, ends at 2023-12-07T03:00:00Z.
+Description (short): 16th St: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Portland Trail Blazers @ Golden State Warriors NBA sports event on 16th St both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): 16th Street both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Portland Trail Blazers @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000487.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-07T05:30:00Z, ends at 2023-12-07T06:30:00Z.
+Description (short): 16th St: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Portland Trail Blazers @ Golden State Warriors NBA sports event on 16th St both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): 16th Street both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Portland Trail Blazers @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000489.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-07T01:00:00Z, ends at 2023-12-07T03:00:00Z.
+Description (short): Warriors Way: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Portland Trail Blazers @ Golden State Warriors NBA sports event on Warriors Way both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): Warriors Way both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Portland Trail Blazers @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000491.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-07T05:30:00Z, ends at 2023-12-07T06:30:00Z.
+Description (short): Warriors Way: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Portland Trail Blazers @ Golden State Warriors NBA sports event on Warriors Way both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): Warriors Way both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Portland Trail Blazers @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000495.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2023-12-07T02:30:00Z, ends at 2023-12-07T03:00:00Z.
+Description (short): 3rd St N/B: road closed between 16th St and Gene Friend Way
+Description (long): Road closed due to Portland Trail Blazers @ Golden State Warriors NBA sports event on 3rd St Northbound between 16th St and Gene Friend Way. Starts at 7:00 PM.
+Description (Text-to-Speech): 3rd Street Northbound, is closed, between 16th Street, and Gene Friend Way, because of Portland Trail Blazers @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000509.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2023-12-07T05:30:00Z, ends at 2023-12-07T06:15:00Z.
+Description (short): 3rd St N/B: road closed between 16th St and Gene Friend Way
+Description (long): Road closed due to Portland Trail Blazers @ Golden State Warriors NBA sports event on 3rd St Northbound between 16th St and Gene Friend Way. Starts at 7:00 PM.
+Description (Text-to-Speech): 3rd Street Northbound, is closed, between 16th Street, and Gene Friend Way, because of Portland Trail Blazers @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000512.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2023-12-07T01:00:00Z, ends at 2023-12-07T03:00:00Z.
+Description (short): Illinois St N/B: no through traffic allowed between Mariposa St and 16th St
+Description (long): No through traffic allowed due to Portland Trail Blazers @ Golden State Warriors NBA sports event on Illinois St Northbound between Mariposa St and 16th St. Starts at 7:00 PM.
+Description (Text-to-Speech): On Illinois Street Northbound, between Mariposa Street, and 16th Street, no through traffic is allowed because of Portland Trail Blazers @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000515.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2023-12-07T05:30:00Z, ends at 2023-12-07T06:30:00Z.
+Description (short): Illinois St N/B: no through traffic allowed between Mariposa St and 16th St
+Description (long): No through traffic allowed due to Portland Trail Blazers @ Golden State Warriors NBA sports event on Illinois St Northbound between Mariposa St and 16th St. Starts at 7:00 PM.
+Description (Text-to-Speech): On Illinois Street Northbound, between Mariposa Street, and 16th Street, no through traffic is allowed because of Portland Trail Blazers @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000529.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-16T23:30:00Z, ends at 2023-12-17T01:30:00Z.
+Description (short): 16th St: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Brooklyn Nets @ Golden State Warriors NBA sports event on 16th St both ways between 3rd St and Terry A Francois Blvd. Starts at 5:30 PM.
+Description (Text-to-Speech): 16th Street both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Brooklyn Nets @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183000536.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-17T04:00:00Z, ends at 2023-12-17T05:00:00Z.
+Description (short): 16th St: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Brooklyn Nets @ Golden State Warriors NBA sports event on 16th St both ways between 3rd St and Terry A Francois Blvd. Starts at 5:30 PM.
+Description (Text-to-Speech): 16th Street both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Brooklyn Nets @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183000546.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-16T23:30:00Z, ends at 2023-12-17T01:30:00Z.
+Description (short): Warriors Way: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Brooklyn Nets @ Golden State Warriors NBA sports event on Warriors Way both ways between 3rd St and Terry A Francois Blvd. Starts at 5:30 PM.
+Description (Text-to-Speech): Warriors Way both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Brooklyn Nets @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183000547.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-17T04:00:00Z, ends at 2023-12-17T05:00:00Z.
+Description (short): Warriors Way: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Brooklyn Nets @ Golden State Warriors NBA sports event on Warriors Way both ways between 3rd St and Terry A Francois Blvd. Starts at 5:30 PM.
+Description (Text-to-Speech): Warriors Way both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Brooklyn Nets @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183000553.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2023-12-17T01:00:00Z, ends at 2023-12-17T01:30:00Z.
+Description (short): 3rd St N/B: road closed between 16th St and Gene Friend Way
+Description (long): Road closed due to Brooklyn Nets @ Golden State Warriors NBA sports event on 3rd St Northbound between 16th St and Gene Friend Way. Starts at 5:30 PM.
+Description (Text-to-Speech): 3rd Street Northbound, is closed, between 16th Street, and Gene Friend Way, because of Brooklyn Nets @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183000558.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2023-12-17T04:00:00Z, ends at 2023-12-17T04:45:00Z.
+Description (short): 3rd St N/B: road closed between 16th St and Gene Friend Way
+Description (long): Road closed due to Brooklyn Nets @ Golden State Warriors NBA sports event on 3rd St Northbound between 16th St and Gene Friend Way. Starts at 5:30 PM.
+Description (Text-to-Speech): 3rd Street Northbound, is closed, between 16th Street, and Gene Friend Way, because of Brooklyn Nets @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183000564.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2023-12-16T23:30:00Z, ends at 2023-12-17T01:30:00Z.
+Description (short): Illinois St N/B: no through traffic allowed between Mariposa St and 16th St
+Description (long): No through traffic allowed due to Brooklyn Nets @ Golden State Warriors NBA sports event on Illinois St Northbound between Mariposa St and 16th St. Starts at 5:30 PM.
+Description (Text-to-Speech): On Illinois Street Northbound, between Mariposa Street, and 16th Street, no through traffic is allowed because of Brooklyn Nets @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183000565.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2023-12-17T04:00:00Z, ends at 2023-12-17T05:00:00Z.
+Description (short): Illinois St N/B: no through traffic allowed between Mariposa St and 16th St
+Description (long): No through traffic allowed due to Brooklyn Nets @ Golden State Warriors NBA sports event on Illinois St Northbound between Mariposa St and 16th St. Starts at 5:30 PM.
+Description (Text-to-Speech): On Illinois Street Northbound, between Mariposa Street, and 16th Street, no through traffic is allowed because of Brooklyn Nets @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183000573.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-20T01:00:00Z, ends at 2023-12-20T03:00:00Z.
+Description (short): 16th St: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Boston Celtics @ Golden State Warriors NBA sports event on 16th St both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): 16th Street both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Boston Celtics @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000580.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-20T05:30:00Z, ends at 2023-12-20T06:30:00Z.
+Description (short): 16th St: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Boston Celtics @ Golden State Warriors NBA sports event on 16th St both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): 16th Street both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Boston Celtics @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000583.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-20T01:00:00Z, ends at 2023-12-20T03:00:00Z.
+Description (short): Warriors Way: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Boston Celtics @ Golden State Warriors NBA sports event on Warriors Way both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): Warriors Way both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Boston Celtics @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000596.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-20T05:30:00Z, ends at 2023-12-20T06:30:00Z.
+Description (short): Warriors Way: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Boston Celtics @ Golden State Warriors NBA sports event on Warriors Way both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): Warriors Way both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Boston Celtics @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000602.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2023-12-20T02:30:00Z, ends at 2023-12-20T03:00:00Z.
+Description (short): 3rd St N/B: road closed between 16th St and Gene Friend Way
+Description (long): Road closed due to Boston Celtics @ Golden State Warriors NBA sports event on 3rd St Northbound between 16th St and Gene Friend Way. Starts at 7:00 PM.
+Description (Text-to-Speech): 3rd Street Northbound, is closed, between 16th Street, and Gene Friend Way, because of Boston Celtics @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000603.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2023-12-20T05:30:00Z, ends at 2023-12-20T06:15:00Z.
+Description (short): 3rd St N/B: road closed between 16th St and Gene Friend Way
+Description (long): Road closed due to Boston Celtics @ Golden State Warriors NBA sports event on 3rd St Northbound between 16th St and Gene Friend Way. Starts at 7:00 PM.
+Description (Text-to-Speech): 3rd Street Northbound, is closed, between 16th Street, and Gene Friend Way, because of Boston Celtics @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000617.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2023-12-20T01:00:00Z, ends at 2023-12-20T03:00:00Z.
+Description (short): Illinois St N/B: no through traffic allowed between Mariposa St and 16th St
+Description (long): No through traffic allowed due to Boston Celtics @ Golden State Warriors NBA sports event on Illinois St Northbound between Mariposa St and 16th St. Starts at 7:00 PM.
+Description (Text-to-Speech): On Illinois Street Northbound, between Mariposa Street, and 16th Street, no through traffic is allowed because of Boston Celtics @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000620.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2023-12-20T05:30:00Z, ends at 2023-12-20T06:30:00Z.
+Description (short): Illinois St N/B: no through traffic allowed between Mariposa St and 16th St
+Description (long): No through traffic allowed due to Boston Celtics @ Golden State Warriors NBA sports event on Illinois St Northbound between Mariposa St and 16th St. Starts at 7:00 PM.
+Description (Text-to-Speech): On Illinois Street Northbound, between Mariposa Street, and 16th Street, no through traffic is allowed because of Boston Celtics @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000679.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-23T01:00:00Z, ends at 2023-12-23T03:00:00Z.
+Description (short): 16th St: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Washington Wizards @ Golden State Warriors NBA sports event on 16th St both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): 16th Street both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Washington Wizards @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000680.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-23T05:30:00Z, ends at 2023-12-23T06:30:00Z.
+Description (short): 16th St: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Washington Wizards @ Golden State Warriors NBA sports event on 16th St both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): 16th Street both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Washington Wizards @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000686.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-23T01:00:00Z, ends at 2023-12-23T03:00:00Z.
+Description (short): Warriors Way: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Washington Wizards @ Golden State Warriors NBA sports event on Warriors Way both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): Warriors Way both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Washington Wizards @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000690.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-23T05:30:00Z, ends at 2023-12-23T06:30:00Z.
+Description (short): Warriors Way: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Washington Wizards @ Golden State Warriors NBA sports event on Warriors Way both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): Warriors Way both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Washington Wizards @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000703.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2023-12-23T02:30:00Z, ends at 2023-12-23T03:00:00Z.
+Description (short): 3rd St N/B: road closed between 16th St and Gene Friend Way
+Description (long): Road closed due to Washington Wizards @ Golden State Warriors NBA sports event on 3rd St Northbound between 16th St and Gene Friend Way. Starts at 7:00 PM.
+Description (Text-to-Speech): 3rd Street Northbound, is closed, between 16th Street, and Gene Friend Way, because of Washington Wizards @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000705.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2023-12-23T05:30:00Z, ends at 2023-12-23T06:15:00Z.
+Description (short): 3rd St N/B: road closed between 16th St and Gene Friend Way
+Description (long): Road closed due to Washington Wizards @ Golden State Warriors NBA sports event on 3rd St Northbound between 16th St and Gene Friend Way. Starts at 7:00 PM.
+Description (Text-to-Speech): 3rd Street Northbound, is closed, between 16th Street, and Gene Friend Way, because of Washington Wizards @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000709.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2023-12-23T01:00:00Z, ends at 2023-12-23T03:00:00Z.
+Description (short): Illinois St N/B: no through traffic allowed between Mariposa St and 16th St
+Description (long): No through traffic allowed due to Washington Wizards @ Golden State Warriors NBA sports event on Illinois St Northbound between Mariposa St and 16th St. Starts at 7:00 PM.
+Description (Text-to-Speech): On Illinois Street Northbound, between Mariposa Street, and 16th Street, no through traffic is allowed because of Washington Wizards @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000710.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2023-12-23T05:30:00Z, ends at 2023-12-23T06:30:00Z.
+Description (short): Illinois St N/B: no through traffic allowed between Mariposa St and 16th St
+Description (long): No through traffic allowed due to Washington Wizards @ Golden State Warriors NBA sports event on Illinois St Northbound between Mariposa St and 16th St. Starts at 7:00 PM.
+Description (Text-to-Speech): On Illinois Street Northbound, between Mariposa Street, and 16th Street, no through traffic is allowed because of Washington Wizards @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000730.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-23T23:30:00Z, ends at 2023-12-24T01:30:00Z.
+Description (short): 16th St: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Portland Trail Blazers @ Golden State Warriors NBA sports event on 16th St both ways between 3rd St and Terry A Francois Blvd. Starts at 5:30 PM.
+Description (Text-to-Speech): 16th Street both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Portland Trail Blazers @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183000733.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-24T04:00:00Z, ends at 2023-12-24T05:00:00Z.
+Description (short): 16th St: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Portland Trail Blazers @ Golden State Warriors NBA sports event on 16th St both ways between 3rd St and Terry A Francois Blvd. Starts at 5:30 PM.
+Description (Text-to-Speech): 16th Street both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Portland Trail Blazers @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183000736.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-23T23:30:00Z, ends at 2023-12-24T01:30:00Z.
+Description (short): Warriors Way: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Portland Trail Blazers @ Golden State Warriors NBA sports event on Warriors Way both ways between 3rd St and Terry A Francois Blvd. Starts at 5:30 PM.
+Description (Text-to-Speech): Warriors Way both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Portland Trail Blazers @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183000738.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-24T04:00:00Z, ends at 2023-12-24T05:00:00Z.
+Description (short): Warriors Way: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Portland Trail Blazers @ Golden State Warriors NBA sports event on Warriors Way both ways between 3rd St and Terry A Francois Blvd. Starts at 5:30 PM.
+Description (Text-to-Speech): Warriors Way both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Portland Trail Blazers @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183000747.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2023-12-24T01:00:00Z, ends at 2023-12-24T01:30:00Z.
+Description (short): 3rd St N/B: road closed between 16th St and Gene Friend Way
+Description (long): Road closed due to Portland Trail Blazers @ Golden State Warriors NBA sports event on 3rd St Northbound between 16th St and Gene Friend Way. Starts at 5:30 PM.
+Description (Text-to-Speech): 3rd Street Northbound, is closed, between 16th Street, and Gene Friend Way, because of Portland Trail Blazers @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183000749.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2023-12-24T04:00:00Z, ends at 2023-12-24T04:45:00Z.
+Description (short): 3rd St N/B: road closed between 16th St and Gene Friend Way
+Description (long): Road closed due to Portland Trail Blazers @ Golden State Warriors NBA sports event on 3rd St Northbound between 16th St and Gene Friend Way. Starts at 5:30 PM.
+Description (Text-to-Speech): 3rd Street Northbound, is closed, between 16th Street, and Gene Friend Way, because of Portland Trail Blazers @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183000751.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2023-12-23T23:30:00Z, ends at 2023-12-24T01:30:00Z.
+Description (short): Illinois St N/B: no through traffic allowed between Mariposa St and 16th St
+Description (long): No through traffic allowed due to Portland Trail Blazers @ Golden State Warriors NBA sports event on Illinois St Northbound between Mariposa St and 16th St. Starts at 5:30 PM.
+Description (Text-to-Speech): On Illinois Street Northbound, between Mariposa Street, and 16th Street, no through traffic is allowed because of Portland Trail Blazers @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183000760.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2023-12-24T04:00:00Z, ends at 2023-12-24T05:00:00Z.
+Description (short): Illinois St N/B: no through traffic allowed between Mariposa St and 16th St
+Description (long): No through traffic allowed due to Portland Trail Blazers @ Golden State Warriors NBA sports event on Illinois St Northbound between Mariposa St and 16th St. Starts at 5:30 PM.
+Description (Text-to-Speech): On Illinois Street Northbound, between Mariposa Street, and 16th Street, no through traffic is allowed because of Portland Trail Blazers @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183000868.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-29T01:00:00Z, ends at 2023-12-29T03:00:00Z.
+Description (short): 16th St: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Miami Heat @ Golden State Warriors NBA sports event on 16th St both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): 16th Street both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Miami Heat @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000878.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-29T05:30:00Z, ends at 2023-12-29T06:30:00Z.
+Description (short): 16th St: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Miami Heat @ Golden State Warriors NBA sports event on 16th St both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): 16th Street both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Miami Heat @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000881.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-29T01:00:00Z, ends at 2023-12-29T03:00:00Z.
+Description (short): Warriors Way: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Miami Heat @ Golden State Warriors NBA sports event on Warriors Way both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): Warriors Way both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Miami Heat @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000885.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-29T05:30:00Z, ends at 2023-12-29T06:30:00Z.
+Description (short): Warriors Way: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Miami Heat @ Golden State Warriors NBA sports event on Warriors Way both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): Warriors Way both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Miami Heat @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000892.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2023-12-29T02:30:00Z, ends at 2023-12-29T03:00:00Z.
+Description (short): 3rd St N/B: road closed between 16th St and Gene Friend Way
+Description (long): Road closed due to Miami Heat @ Golden State Warriors NBA sports event on 3rd St Northbound between 16th St and Gene Friend Way. Starts at 7:00 PM.
+Description (Text-to-Speech): 3rd Street Northbound, is closed, between 16th Street, and Gene Friend Way, because of Miami Heat @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000894.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2023-12-29T05:30:00Z, ends at 2023-12-29T06:15:00Z.
+Description (short): 3rd St N/B: road closed between 16th St and Gene Friend Way
+Description (long): Road closed due to Miami Heat @ Golden State Warriors NBA sports event on 3rd St Northbound between 16th St and Gene Friend Way. Starts at 7:00 PM.
+Description (Text-to-Speech): 3rd Street Northbound, is closed, between 16th Street, and Gene Friend Way, because of Miami Heat @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000896.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2023-12-29T01:00:00Z, ends at 2023-12-29T03:00:00Z.
+Description (short): Illinois St N/B: no through traffic allowed between Mariposa St and 16th St
+Description (long): No through traffic allowed due to Miami Heat @ Golden State Warriors NBA sports event on Illinois St Northbound between Mariposa St and 16th St. Starts at 7:00 PM.
+Description (Text-to-Speech): On Illinois Street Northbound, between Mariposa Street, and 16th Street, no through traffic is allowed because of Miami Heat @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183000897.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2023-12-29T05:30:00Z, ends at 2023-12-29T06:30:00Z.
+Description (short): Illinois St N/B: no through traffic allowed between Mariposa St and 16th St
+Description (long): No through traffic allowed due to Miami Heat @ Golden State Warriors NBA sports event on Illinois St Northbound between Mariposa St and 16th St. Starts at 7:00 PM.
+Description (Text-to-Speech): On Illinois Street Northbound, between Mariposa Street, and 16th Street, no through traffic is allowed because of Miami Heat @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183001103.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-30T23:30:00Z, ends at 2023-12-31T01:30:00Z.
+Description (short): 16th St: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Dallas Mavericks @ Golden State Warriors NBA sports event on 16th St both ways between 3rd St and Terry A Francois Blvd. Starts at 5:30 PM.
+Description (Text-to-Speech): 16th Street both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Dallas Mavericks @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183001105.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-31T04:00:00Z, ends at 2023-12-31T05:00:00Z.
+Description (short): 16th St: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Dallas Mavericks @ Golden State Warriors NBA sports event on 16th St both ways between 3rd St and Terry A Francois Blvd. Starts at 5:30 PM.
+Description (Text-to-Speech): 16th Street both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Dallas Mavericks @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183001124.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-30T23:30:00Z, ends at 2023-12-31T01:30:00Z.
+Description (short): Warriors Way: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Dallas Mavericks @ Golden State Warriors NBA sports event on Warriors Way both ways between 3rd St and Terry A Francois Blvd. Starts at 5:30 PM.
+Description (Text-to-Speech): Warriors Way both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Dallas Mavericks @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183001146.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-31T04:00:00Z, ends at 2023-12-31T05:00:00Z.
+Description (short): Warriors Way: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Dallas Mavericks @ Golden State Warriors NBA sports event on Warriors Way both ways between 3rd St and Terry A Francois Blvd. Starts at 5:30 PM.
+Description (Text-to-Speech): Warriors Way both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Dallas Mavericks @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183001151.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2023-12-31T01:00:00Z, ends at 2023-12-31T01:30:00Z.
+Description (short): 3rd St N/B: road closed between 16th St and Gene Friend Way
+Description (long): Road closed due to Dallas Mavericks @ Golden State Warriors NBA sports event on 3rd St Northbound between 16th St and Gene Friend Way. Starts at 5:30 PM.
+Description (Text-to-Speech): 3rd Street Northbound, is closed, between 16th Street, and Gene Friend Way, because of Dallas Mavericks @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183001154.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2023-12-31T04:00:00Z, ends at 2023-12-31T04:45:00Z.
+Description (short): 3rd St N/B: road closed between 16th St and Gene Friend Way
+Description (long): Road closed due to Dallas Mavericks @ Golden State Warriors NBA sports event on 3rd St Northbound between 16th St and Gene Friend Way. Starts at 5:30 PM.
+Description (Text-to-Speech): 3rd Street Northbound, is closed, between 16th Street, and Gene Friend Way, because of Dallas Mavericks @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183001167.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2023-12-30T23:30:00Z, ends at 2023-12-31T01:30:00Z.
+Description (short): Illinois St N/B: no through traffic allowed between Mariposa St and 16th St
+Description (long): No through traffic allowed due to Dallas Mavericks @ Golden State Warriors NBA sports event on Illinois St Northbound between Mariposa St and 16th St. Starts at 5:30 PM.
+Description (Text-to-Speech): On Illinois Street Northbound, between Mariposa Street, and 16th Street, no through traffic is allowed because of Dallas Mavericks @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183001170.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2023-12-31T04:00:00Z, ends at 2023-12-31T05:00:00Z.
+Description (short): Illinois St N/B: no through traffic allowed between Mariposa St and 16th St
+Description (long): No through traffic allowed due to Dallas Mavericks @ Golden State Warriors NBA sports event on Illinois St Northbound between Mariposa St and 16th St. Starts at 5:30 PM.
+Description (Text-to-Speech): On Illinois Street Northbound, between Mariposa Street, and 16th Street, no through traffic is allowed because of Dallas Mavericks @ Golden State Warriors NBA. Starts at 5:30 PM.
+
+Incident ID: 183001259.
+Location: Country code 1, both ways.
+Schedule: Starts at 2024-01-03T01:00:00Z, ends at 2024-01-03T03:00:00Z.
+Description (short): 16th St: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Orlando Magic @ Golden State Warriors NBA sports event on 16th St both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): 16th Street both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Orlando Magic @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183001344.
+Location: Country code 1, both ways.
+Schedule: Starts at 2024-01-03T05:30:00Z, ends at 2024-01-03T06:30:00Z.
+Description (short): 16th St: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Orlando Magic @ Golden State Warriors NBA sports event on 16th St both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): 16th Street both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Orlando Magic @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183001346.
+Location: Country code 0, both ways.
+Schedule: Starts at 2024-01-03T01:00:00Z, ends at 2024-01-03T03:00:00Z.
+Description (short): Warriors Way: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Orlando Magic @ Golden State Warriors NBA sports event on Warriors Way both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): Warriors Way both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Orlando Magic @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183001347.
+Location: Country code 0, both ways.
+Schedule: Starts at 2024-01-03T05:30:00Z, ends at 2024-01-03T06:30:00Z.
+Description (short): Warriors Way: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Orlando Magic @ Golden State Warriors NBA sports event on Warriors Way both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): Warriors Way both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Orlando Magic @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183001366.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2024-01-03T02:30:00Z, ends at 2024-01-03T03:00:00Z.
+Description (short): 3rd St N/B: road closed between 16th St and Gene Friend Way
+Description (long): Road closed due to Orlando Magic @ Golden State Warriors NBA sports event on 3rd St Northbound between 16th St and Gene Friend Way. Starts at 7:00 PM.
+Description (Text-to-Speech): 3rd Street Northbound, is closed, between 16th Street, and Gene Friend Way, because of Orlando Magic @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183001370.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2024-01-03T05:30:00Z, ends at 2024-01-03T06:15:00Z.
+Description (short): 3rd St N/B: road closed between 16th St and Gene Friend Way
+Description (long): Road closed due to Orlando Magic @ Golden State Warriors NBA sports event on 3rd St Northbound between 16th St and Gene Friend Way. Starts at 7:00 PM.
+Description (Text-to-Speech): 3rd Street Northbound, is closed, between 16th Street, and Gene Friend Way, because of Orlando Magic @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183001373.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2024-01-03T01:00:00Z, ends at 2024-01-03T03:00:00Z.
+Description (short): Illinois St N/B: no through traffic allowed between Mariposa St and 16th St
+Description (long): No through traffic allowed due to Orlando Magic @ Golden State Warriors NBA sports event on Illinois St Northbound between Mariposa St and 16th St. Starts at 7:00 PM.
+Description (Text-to-Speech): On Illinois Street Northbound, between Mariposa Street, and 16th Street, no through traffic is allowed because of Orlando Magic @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183001388.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2024-01-03T05:30:00Z, ends at 2024-01-03T06:30:00Z.
+Description (short): Illinois St N/B: no through traffic allowed between Mariposa St and 16th St
+Description (long): No through traffic allowed due to Orlando Magic @ Golden State Warriors NBA sports event on Illinois St Northbound between Mariposa St and 16th St. Starts at 7:00 PM.
+Description (Text-to-Speech): On Illinois Street Northbound, between Mariposa Street, and 16th Street, no through traffic is allowed because of Orlando Magic @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183001471.
+Location: Country code 1, both ways.
+Schedule: Starts at 2024-01-05T01:00:00Z, ends at 2024-01-05T03:00:00Z.
+Description (short): 16th St: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Denver Nuggets @ Golden State Warriors NBA sports event on 16th St both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): 16th Street both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Denver Nuggets @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183001565.
+Location: Country code 1, both ways.
+Schedule: Starts at 2024-01-05T05:30:00Z, ends at 2024-01-05T06:30:00Z.
+Description (short): 16th St: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Denver Nuggets @ Golden State Warriors NBA sports event on 16th St both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): 16th Street both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Denver Nuggets @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183001567.
+Location: Country code 0, both ways.
+Schedule: Starts at 2024-01-05T01:00:00Z, ends at 2024-01-05T03:00:00Z.
+Description (short): Warriors Way: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Denver Nuggets @ Golden State Warriors NBA sports event on Warriors Way both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): Warriors Way both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Denver Nuggets @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183001793.
+Location: Country code 0, both ways.
+Schedule: Starts at 2024-01-05T05:30:00Z, ends at 2024-01-05T06:30:00Z.
+Description (short): Warriors Way: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Denver Nuggets @ Golden State Warriors NBA sports event on Warriors Way both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): Warriors Way both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Denver Nuggets @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183001804.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2024-01-05T02:30:00Z, ends at 2024-01-05T03:00:00Z.
+Description (short): 3rd St N/B: road closed between 16th St and Gene Friend Way
+Description (long): Road closed due to Denver Nuggets @ Golden State Warriors NBA sports event on 3rd St Northbound between 16th St and Gene Friend Way. Starts at 7:00 PM.
+Description (Text-to-Speech): 3rd Street Northbound, is closed, between 16th Street, and Gene Friend Way, because of Denver Nuggets @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183001807.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2024-01-05T05:30:00Z, ends at 2024-01-05T06:15:00Z.
+Description (short): 3rd St N/B: road closed between 16th St and Gene Friend Way
+Description (long): Road closed due to Denver Nuggets @ Golden State Warriors NBA sports event on 3rd St Northbound between 16th St and Gene Friend Way. Starts at 7:00 PM.
+Description (Text-to-Speech): 3rd Street Northbound, is closed, between 16th Street, and Gene Friend Way, because of Denver Nuggets @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183001850.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2024-01-05T01:00:00Z, ends at 2024-01-05T03:00:00Z.
+Description (short): Illinois St N/B: no through traffic allowed between Mariposa St and 16th St
+Description (long): No through traffic allowed due to Denver Nuggets @ Golden State Warriors NBA sports event on Illinois St Northbound between Mariposa St and 16th St. Starts at 7:00 PM.
+Description (Text-to-Speech): On Illinois Street Northbound, between Mariposa Street, and 16th Street, no through traffic is allowed because of Denver Nuggets @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183001852.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2024-01-05T05:30:00Z, ends at 2024-01-05T06:30:00Z.
+Description (short): Illinois St N/B: no through traffic allowed between Mariposa St and 16th St
+Description (long): No through traffic allowed due to Denver Nuggets @ Golden State Warriors NBA sports event on Illinois St Northbound between Mariposa St and 16th St. Starts at 7:00 PM.
+Description (Text-to-Speech): On Illinois Street Northbound, between Mariposa Street, and 16th Street, no through traffic is allowed because of Denver Nuggets @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183002038.
+Location: Country code 1, both ways.
+Schedule: Starts at 2024-01-06T01:00:00Z, ends at 2024-01-06T03:00:00Z.
+Description (short): 16th St: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Detroit Pistons @ Golden State Warriors NBA sports event on 16th St both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): 16th Street both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Detroit Pistons @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183002042.
+Location: Country code 1, both ways.
+Schedule: Starts at 2024-01-06T05:30:00Z, ends at 2024-01-06T06:30:00Z.
+Description (short): 16th St: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Detroit Pistons @ Golden State Warriors NBA sports event on 16th St both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): 16th Street both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Detroit Pistons @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183002061.
+Location: Country code 0, both ways.
+Schedule: Starts at 2024-01-06T01:00:00Z, ends at 2024-01-06T03:00:00Z.
+Description (short): Warriors Way: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Detroit Pistons @ Golden State Warriors NBA sports event on Warriors Way both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): Warriors Way both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Detroit Pistons @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183002063.
+Location: Country code 0, both ways.
+Schedule: Starts at 2024-01-06T05:30:00Z, ends at 2024-01-06T06:30:00Z.
+Description (short): Warriors Way: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to Detroit Pistons @ Golden State Warriors NBA sports event on Warriors Way both ways between 3rd St and Terry A Francois Blvd. Starts at 7:00 PM.
+Description (Text-to-Speech): Warriors Way both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of Detroit Pistons @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183002068.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2024-01-06T02:30:00Z, ends at 2024-01-06T03:00:00Z.
+Description (short): 3rd St N/B: road closed between 16th St and Gene Friend Way
+Description (long): Road closed due to Detroit Pistons @ Golden State Warriors NBA sports event on 3rd St Northbound between 16th St and Gene Friend Way. Starts at 7:00 PM.
+Description (Text-to-Speech): 3rd Street Northbound, is closed, between 16th Street, and Gene Friend Way, because of Detroit Pistons @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183002073.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2024-01-06T05:30:00Z, ends at 2024-01-06T06:15:00Z.
+Description (short): 3rd St N/B: road closed between 16th St and Gene Friend Way
+Description (long): Road closed due to Detroit Pistons @ Golden State Warriors NBA sports event on 3rd St Northbound between 16th St and Gene Friend Way. Starts at 7:00 PM.
+Description (Text-to-Speech): 3rd Street Northbound, is closed, between 16th Street, and Gene Friend Way, because of Detroit Pistons @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183002074.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2024-01-06T01:00:00Z, ends at 2024-01-06T03:00:00Z.
+Description (short): Illinois St N/B: no through traffic allowed between Mariposa St and 16th St
+Description (long): No through traffic allowed due to Detroit Pistons @ Golden State Warriors NBA sports event on Illinois St Northbound between Mariposa St and 16th St. Starts at 7:00 PM.
+Description (Text-to-Speech): On Illinois Street Northbound, between Mariposa Street, and 16th Street, no through traffic is allowed because of Detroit Pistons @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183002095.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2024-01-06T05:30:00Z, ends at 2024-01-06T06:30:00Z.
+Description (short): Illinois St N/B: no through traffic allowed between Mariposa St and 16th St
+Description (long): No through traffic allowed due to Detroit Pistons @ Golden State Warriors NBA sports event on Illinois St Northbound between Mariposa St and 16th St. Starts at 7:00 PM.
+Description (Text-to-Speech): On Illinois Street Northbound, between Mariposa Street, and 16th Street, no through traffic is allowed because of Detroit Pistons @ Golden State Warriors NBA. Starts at 7:00 PM.
+
+Incident ID: 183004107.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-06T17:00:00Z, ends at 2023-12-06T23:00:00Z.
+Description (short): Seaview Ave: road closed from Sea View Dr to Crown Point Rd
+Description (long): Road closed due to construction work on Seaview Ave both ways from Sea View Dr to Crown Point Rd.
+Description (Text-to-Speech): Seaview Avenue both ways, is closed, from Sea View Drive, to Crown Point Road, because of construction work.
+
+Incident ID: 183004241.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-11-27T17:00:00Z, ends at 2023-12-18T23:00:00Z.
+Description (short): Bryn Mawr Dr: road closed from El Cerrito Ave to Mission Ave
+Description (long): Road closed due to construction work on Bryn Mawr Dr both ways from El Cerrito Ave to Mission Ave.
+Description (Text-to-Speech): Bryn Mawr Drive both ways, is closed, from El Cerrito Avenue, to Mission Avenue, because of construction work.
+
+Incident ID: 183038409.
+Location: Country code 0, Eastbound.
+Schedule: Starts at 2023-12-18T16:00:00Z, ends at 2023-12-19T00:00:00Z.
+Description (short): Fern St E/B: road closed from Polk St to Larkin St
+Description (long): Road closed due to construction work on Fern St Eastbound from Polk St to Larkin St.
+Description (Text-to-Speech): Fern Street Eastbound, is closed, from Polk Street, to Larkin Street, because of construction work.
+
+Incident ID: 183078140.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-05T15:00:00Z, ends at 2023-12-05T23:30:00Z.
+Description (short): Friedell St: road closed from Hudson Ave to Innes Ave
+Description (long): Road closed due to construction work on Friedell St both ways from Hudson Ave to Innes Ave.
+Description (Text-to-Speech): Friedell Street both ways, is closed, from Hudson Avenue, to Innes Avenue, because of construction work.
+
+Incident ID: 183082211.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-04T01:30:00Z, ends at 2023-12-04T03:30:00Z.
+Description (short): 16th St: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to a Depeche Mode concert @ Chase Center on 16th St both ways between 3rd St and Terry A Francois Blvd. Concert begins at 7:30 p.m. Doors open at 6:30 p.m..
+Description (Text-to-Speech): 16th Street both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of a Depeche Mode concert @ Chase Center. Concert begins at 7:30 p.m. Doors open at 6:30 p.m..
+
+Incident ID: 183082230.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-04T06:00:00Z, ends at 2023-12-04T07:00:00Z.
+Description (short): 16th St: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to a Depeche Mode concert @ Chase Center on 16th St both ways between 3rd St and Terry A Francois Blvd. Concert begins at 7:30 p.m. Doors open at 6:30 p.m..
+Description (Text-to-Speech): 16th Street both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of a Depeche Mode concert @ Chase Center. Concert begins at 7:30 p.m. Doors open at 6:30 p.m..
+
+Incident ID: 183082232.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-04T01:30:00Z, ends at 2023-12-04T03:30:00Z.
+Description (short): Warriors Way: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to a Depeche Mode concert @ Chase Center on Warriors Way both ways between 3rd St and Terry A Francois Blvd. Concert begins at 7:30 p.m. Doors open at 6:30 p.m..
+Description (Text-to-Speech): Warriors Way both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of a Depeche Mode concert @ Chase Center. Concert begins at 7:30 p.m. Doors open at 6:30 p.m..
+
+Incident ID: 183082238.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-12-04T06:00:00Z, ends at 2023-12-04T07:00:00Z.
+Description (short): Warriors Way: road closed between 3rd St and Terry A Francois Blvd
+Description (long): Road closed due to a Depeche Mode concert @ Chase Center on Warriors Way both ways between 3rd St and Terry A Francois Blvd. Concert begins at 7:30 p.m. Doors open at 6:30 p.m..
+Description (Text-to-Speech): Warriors Way both ways, is closed, between 3rd Street, and Terry A Francois Boulevard, because of a Depeche Mode concert @ Chase Center. Concert begins at 7:30 p.m. Doors open at 6:30 p.m..
+
+Incident ID: 183082257.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2023-12-04T03:00:00Z, ends at 2023-12-04T03:30:00Z.
+Description (short): 3rd St N/B: road closed between 16th St and Gene Friend Way
+Description (long): Road closed due to a Depeche Mode concert @ Chase Center on 3rd St Northbound between 16th St and Gene Friend Way. Concert begins at 7:30 p.m. Doors open at 6:30 p.m..
+Description (Text-to-Speech): 3rd Street Northbound, is closed, between 16th Street, and Gene Friend Way, because of a Depeche Mode concert @ Chase Center. Concert begins at 7:30 p.m. Doors open at 6:30 p.m..
+
+Incident ID: 183082265.
+Location: Country code 1, Northbound.
+Schedule: Starts at 2023-12-04T06:00:00Z, ends at 2023-12-04T06:45:00Z.
+Description (short): 3rd St N/B: road closed between 16th St and Gene Friend Way
+Description (long): Road closed due to a Depeche Mode concert @ Chase Center on 3rd St Northbound between 16th St and Gene Friend Way. Concert begins at 7:30 p.m. Doors open at 6:30 p.m..
+Description (Text-to-Speech): 3rd Street Northbound, is closed, between 16th Street, and Gene Friend Way, because of a Depeche Mode concert @ Chase Center. Concert begins at 7:30 p.m. Doors open at 6:30 p.m..
+
+Incident ID: 183082274.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2023-12-04T01:30:00Z, ends at 2023-12-04T03:30:00Z.
+Description (short): Illinois St N/B: no through traffic allowed between Mariposa St and 16th St
+Description (long): No through traffic allowed due to a Depeche Mode concert @ Chase Center on Illinois St Northbound between Mariposa St and 16th St. Concert begins at 7:30 p.m. Doors open at 6:30 p.m..
+Description (Text-to-Speech): On Illinois Street Northbound, between Mariposa Street, and 16th Street, no through traffic is allowed because of a Depeche Mode concert @ Chase Center. Concert begins at 7:30 p.m. Doors open at 6:30 p.m..
+
+Incident ID: 183082277.
+Location: Country code 0, Northbound.
+Schedule: Starts at 2023-12-04T06:00:00Z, ends at 2023-12-04T07:00:00Z.
+Description (short): Illinois St N/B: no through traffic allowed between Mariposa St and 16th St
+Description (long): No through traffic allowed due to a Depeche Mode concert @ Chase Center on Illinois St Northbound between Mariposa St and 16th St. Concert begins at 7:30 p.m. Doors open at 6:30 p.m..
+Description (Text-to-Speech): On Illinois Street Northbound, between Mariposa Street, and 16th Street, no through traffic is allowed because of a Depeche Mode concert @ Chase Center. Concert begins at 7:30 p.m. Doors open at 6:30 p.m..
+
+Incident ID: 183125916.
+Location: Country code 1, Eastbound.
+Schedule: Starts at 2023-12-02T19:43:00Z, ends at 2023-12-02T23:38:51Z.
+Description (short): I-80 E/B: average speed 15 mph between Exits 1,1B,1C US-101 and Exits 2B,2C 1st St
+Description (long): Delays of five minutes on I-80 Eastbound between Exits 1,1B,1C US-101 and Exits 2B,2C 1st St. Average speed 15 mph.
+Description (Text-to-Speech): On I-80 Eastbound, there are delays of up to five minutes between Exit 1 for US-101, and Exit 2B for 1st Street, with average speeds of around 15 mph.
+
+Incident ID: 183126665.
+Location: Country code 1, Westbound.
+Schedule: Starts at 2023-12-02T19:35:00Z, ends at 2023-12-02T23:12:54Z.
+Description (short): I-80 W/B: average speed 20 mph between Exit 13 Cleveland Ave and I-580
+Description (long): Delays of seven minutes and delays increasing on I-80 Westbound between Exit 13 Cleveland Ave and I-580. Average speed 20 mph.
+Description (Text-to-Speech): On I-80 Westbound, there are increasing delays of up to seven minutes between Exit 13 for Cleveland Avenue, and I-580, with average speeds of around 20 mph.
+
+Incident ID: 183127012.
+Location: Country code 1, Eastbound.
+Schedule: Starts at 2023-12-02T20:47:00Z, ends at 2023-12-02T23:46:54Z.
+Description (short): CA-24 E/B: average speed 20 mph between Exit 6 Broadway and Exit 9 Camino Pablo
+Description (long): Delays of four minutes and delays easing on CA-24 Eastbound between Exit 6 Broadway and Exit 9 Camino Pablo. Average speed 20 mph.
+Description (Text-to-Speech): On CA-24 Eastbound, there are improving delays of up to four minutes between Exit 6 for Broadway, and Exit 9 for Camino Pablo, with average speeds of around 20 mph.
+
+Incident ID: 183128407.
+Location: Country code 1, Eastbound.
+Schedule: Starts at 2023-12-02T22:36:00Z, ends at 2023-12-02T23:54:50Z.
+Description (short): I-80 E/B: delays of two minutes between I-580 and Exit 15 Cutting Blvd
+Description (long): Delays of two minutes on I-80 Eastbound between I-580 and Exit 15 Cutting Blvd.
+Description (Text-to-Speech): On I-80 Eastbound, there are delays of up to two minutes between I-580, and Exit 15 for Cutting Boulevard.
+
+Incident ID: 183128589.
+Location: Country code 1, Eastbound.
+Schedule: Starts at 2023-12-02T22:08:00Z, ends at 2023-12-02T23:02:55Z.
+Description (short): I-580 E/B: average speed 30 mph between Exit 37 Grove Way and Exit 44A San Ramon Rd
+Description (long): Delays of two minutes and delays easing on I-580 Eastbound between Exit 37 Grove Way and Exit 44A San Ramon Rd. Average speed 30 mph.
+Description (Text-to-Speech): On I-580 Eastbound, there are improving delays of up to two minutes between Exit 37 for Grove Way, and Exit 44A for San Ramon Road, with average speeds of around 30 mph.
+
+Incident ID: 183128848.
+Location: Country code 1, Westbound.
+Schedule: Starts at 2023-12-02T21:33:00Z, ends at 2023-12-02T23:18:51Z.
+Description (short): I-580 W/B: average speed 20 mph between Exits 19B,19C,19D and Exit 11
+Description (long): Delays of five minutes and delays increasing on I-580 Westbound between Exits 19B,19C,19D I-980 Exit 2A and Exit 11 University Ave. Average speed 20 mph.
+Description (Text-to-Speech): On I-580 Westbound, there are increasing delays of up to five minutes between Exit 19B for I-980, and Exit 11 for University Avenue, with average speeds of around 20 mph.
+
+Incident ID: 183128939.
+Location: Country code 1, Eastbound.
+Schedule: Starts at 2023-12-02T21:37:00Z, ends at 2023-12-02T23:09:50Z.
+Description (short): CA-37 E/B: average speed 15 mph between Lakeville Hwy and Noble Rd
+Description (long): Delays of five minutes and delays increasing on CA-37 Eastbound between Lakeville Hwy and Noble Rd. Average speed 15 mph.
+Description (Text-to-Speech): On CA-37 Eastbound, there are increasing delays of up to five minutes between Lakeville Highway, and Noble Road, with average speeds of around 15 mph.
+
+Incident ID: 183128940.
+Location: Country code 1, Southbound.
+Schedule: Starts at 2023-12-02T22:24:00Z, ends at 2023-12-02T23:06:54Z.
+Description (short): I-880 S/B: average speed 30 mph between Exit 27 and Exit 24
+Description (long): Delays of two minutes and delays easing on I-880 Southbound between Exit 27 CA-92 Exits 26A,26B and Exit 24 Industrial Pkwy. Average speed 30 mph.
+Description (Text-to-Speech): On I-880 Southbound, there are improving delays of up to two minutes between Exit 27 for CA-92, and Exit 24 for Industrial Parkway, with average speeds of around 30 mph.
+
+Incident ID: 183129150.
+Location: Country code 1, Eastbound.
+Schedule: Starts at 2023-12-02T19:35:00Z, ends at 2023-12-02T23:58:51Z.
+Description (short): I-580 E/B: average speed 25 mph between Exit 12 and Exit 19A
+Description (long): Delays of seven minutes and delays increasing on I-580 Eastbound between Exit 12 Central Ave and Exit 19A Macarthur Blvd. Average speed 25 mph.
+Description (Text-to-Speech): On I-580 Eastbound, there are increasing delays of up to seven minutes between Exit 12 for Central Avenue, and Exit 19A for Macarthur Boulevard, with average speeds of around 25 mph.
+
+Incident ID: 183129268.
+Location: Country code 1, Eastbound.
+Schedule: Starts at 2023-12-02T22:46:00Z, ends at 2023-12-02T23:58:51Z.
+Description (short): I-80 E/B: average speed 20 mph between I-80 and I-580
+Description (long): Delays of four minutes and delays increasing on I-80 Eastbound between I-80 and I-580. Average speed 20 mph.
+Description (Text-to-Speech): On I-80 Eastbound, there are increasing delays of up to four minutes between I-80, and I-580, with average speeds of around 20 mph.
+
+Incident ID: 183129458.
+Location: Country code 1, Eastbound.
+Schedule: Starts at 2023-12-02T22:55:00Z, ends at 2023-12-02T23:00:59Z.
+Description (short): I-80 E/B: average speed 30 mph between Exit 29C and Exits 32,32A,32B
+Description (long): Delays of two minutes on I-80 Eastbound between Exit 29C I-780 Exits 1A,1B and Exits 32,32A,32B Redwood Pkwy. Average speed 30 mph.
+Description (Text-to-Speech): On I-80 Eastbound, there are delays of up to two minutes between Exit 29C for I-780, and Exit 32 for Redwood Parkway, with average speeds of around 30 mph.
+
+Incident ID: 183129610.
+Location: Country code 1, Westbound.
+Schedule: Starts at 2023-12-02T23:03:00Z, ends at 2023-12-02T23:59:54Z.
+Description (short): I-80 W/B: average speed 25 mph between Exit 4A Treasure Island Rd and US-101
+Description (long): Delays of two minutes and delays increasing on I-80 Westbound between Exit 4A Treasure Island Rd and US-101. Average speed 25 mph.
+Description (Text-to-Speech): On I-80 Westbound, there are increasing delays of up to two minutes between Exit 4A for Treasure Island Road, and US-101, with average speeds of around 25 mph.
+
+Incident ID: 183129611.
+Location: Country code 1, Eastbound.
+Schedule: Starts at 2023-12-02T23:03:00Z, ends at 2023-12-02T23:44:49Z.
+Description (short): I-80 E/B: average speed 30 mph between Exit 29C and Exits 32,32A,32B
+Description (long): Delays of two minutes on I-80 Eastbound between Exit 29C I-780 Exits 1A,1B and Exits 32,32A,32B Redwood Pkwy. Average speed 30 mph.
+Description (Text-to-Speech): On I-80 Eastbound, there are delays of up to two minutes between Exit 29C for I-780, and Exit 32 for Redwood Parkway, with average speeds of around 30 mph.
+
+Incident ID: 183129612.
+Location: Country code 1, Eastbound.
+Schedule: Starts at 2023-12-02T23:03:00Z, ends at 2023-12-02T23:11:54Z.
+Description (short): I-580 E/B: average speed 30 mph between Exit 37 Grove Way and Exit 44A San Ramon Rd
+Description (long): Delays of one minute and delays easing on I-580 Eastbound between Exit 37 Grove Way and Exit 44A San Ramon Rd. Average speed 30 mph.
+Description (Text-to-Speech): On I-580 Eastbound, there are improving delays of up to one minute between Exit 37 for Grove Way, and Exit 44A for San Ramon Road, with average speeds of around 30 mph.
+
+Incident ID: 183129613.
+Location: Country code 1, Southbound.
+Schedule: Starts at 2023-12-02T23:03:00Z, ends at 2023-12-02T23:06:54Z.
+Description (short): I-880 S/B: average speed 25 mph between Exit 30 Hesperian Blvd and Exit 28 Winton Ave
+Description (long): Delays of two minutes on I-880 Southbound between Exit 30 Hesperian Blvd and Exit 28 Winton Ave. Average speed 25 mph.
+Description (Text-to-Speech): On I-880 Southbound, there are delays of up to two minutes between Exit 30 for Hesperian Boulevard, and Exit 28 for Winton Avenue, with average speeds of around 25 mph.
+
+Incident ID: 183129739.
+Location: Country code 1, Southbound.
+Schedule: Starts at 2023-12-02T22:33:00Z, ends at 2023-12-02T23:51:54Z.
+Description (short): CA-1 S/B: average speed 15 mph between Coral Reef Ave and Cabrillo Hwy
+Description (long): Delays of six minutes and delays increasing on CA-1 Southbound between Coral Reef Ave and Cabrillo Hwy. Average speed 15 mph.
+Description (Text-to-Speech): On CA-1 Southbound, there are increasing delays of up to six minutes between Coral Reef Avenue, and Cabrillo Highway, with average speeds of around 15 mph.
+
+Incident ID: 183129793.
+Location: Country code 1, Eastbound.
+Schedule: Starts at 2023-12-02T23:15:00Z, ends at 2023-12-02T23:56:01Z.
+Description (short): I-80 E/B: average speed 30 mph between Exits 47,47B and Exit 51A
+Description (long): Delays of two minutes on I-80 Eastbound between Exits 47,47B Air Base Pkwy and Exit 51A Cherry Glen Rd. Average speed 30 mph.
+Description (Text-to-Speech): On I-80 Eastbound, there are delays of up to two minutes between Exit 47 for Air Base Parkway, and Exit 51A for Cherry Glen Road, with average speeds of around 30 mph.
+
+Incident ID: 176951228.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-06-01T09:26:54Z, ends at 2024-01-01T14:00:00Z.
+Description (short): Doolan Rd: road closed from Canyons Pkwy to Doolan Rd / Camp Tyler
+Description (long): Road closed, road surface in poor condition and impassable on Doolan Rd both ways from Canyons Pkwy to Doolan Rd / Camp Tyler.
+Description (Text-to-Speech): Doolan Road both ways, is closed, from Canyons Parkway, to Doolan Road,.
+
+Incident ID: 176952641.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-06-01T10:36:00Z, ends at 2024-01-01T14:00:00Z.
+Description (short): Old Santa Cruz Hwy: road closed from Aldercroft Hts Rd to Wright Dr
+Description (long): Road closed and road surface in poor condition on Old Santa Cruz Hwy both ways from Aldercroft Hts Rd to Wright Dr.
+Description (Text-to-Speech): Old Santa Cruz Highway both ways, is closed, from Aldercroft Hts Road, to Wright Drive,.
+
+Incident ID: 182331648.
+Location: Country code 0, both ways.
+Schedule: Starts at 2023-11-01T13:35:56Z, ends at 2024-04-01T15:00:00Z.
+Description (short): Park Dr: winter closure from Grizzly Peak Blvd to Wildcat Canyon Rd
+Description (long): Winter closure on Park Dr both ways from Grizzly Peak Blvd to Wildcat Canyon Rd.
+Description (Text-to-Speech): Park Drive both ways, is closed for the winter, from Grizzly Peak Boulevard, to Wildcat Canyon Road,.
+
+Incident ID: 183128342.
+Location: Country code 1, Westbound.
+Schedule: Starts at 2023-12-02T21:56:22Z, ends at 2023-12-02T23:11:13Z.
+Description (short): I-80 W/B: crash at Exit 20 / Richmond Pkwy
+Description (long): #1 lane blocked due to crash on I-80 Westbound at Exit 20 / Richmond Pkwy.
+Description (Text-to-Speech): On I-80 Westbound, at Exit 20 for20, the #1 lane is blocked because of a crash.
+
+Incident ID: 183128608.
+Location: Country code 1, both ways.
+Schedule: Starts at 2023-12-02T22:10:36Z, ends at 2023-12-02T23:40:07Z.
+Description (short): CA-1 Cabrillo Hwy: road blocked from Gray Whale Cove Trai to 1st St
+Description (long): Road blocked due to crash on CA-1 Cabrillo Hwy both ways from Gray Whale Cove Trai to 1st St. SigAlert issued.
+Description (Text-to-Speech): CA-1 Cabrillo Highway both ways, is blocked, from Gray Whale Cove Trai, to 1st Street, because of a crash. SigAlert issued.
+
+Incident ID: 183128695.
+Location: Country code 1, Eastbound.
+Schedule: Starts at 2023-12-02T22:16:29Z, ends at 2023-12-02T23:46:03Z.
+Description (short): Marsh Creek Rd E/B: crash at Bragdon Way
+Description (long): Lane blocked due to crash on Marsh Creek Rd Eastbound at Bragdon Way.
+Description (Text-to-Speech): On Marsh Creek Road Eastbound, at Bragdon Way, there is a lane blocked because of a crash.
