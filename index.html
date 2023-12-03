@@ -37,6 +37,14 @@
           zoom: 10.7
         });
       </script>
+      <script>
+    var directions = new MapboxDirections({
+        accessToken: mapboxgl.accessToken,
+        unit: 'miles',
+        profile: 'mapbox/driving-traffic'
+      });
+    map.addControl(directions, 'top-left');
+      </script>
     </section>
 
     <section class="chat-box">
