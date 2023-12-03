@@ -31,9 +31,9 @@ input {
   margin-bottom: 10px;
 }
 
-.map, #map {
-  height: 400px; /* Set an appropriate height for the map container */
-  border: 1px; /* Optional: Add a border around the map */
+.map {
+  height: 300px; /* Set an appropriate height for the map container */
+  border: 1px solid #ddd; /* Optional: Add a border around the map */
   margin-bottom: 20px;
 }
 
@@ -42,4 +42,11 @@ input {
   padding: 10px;
   height: 200px; /* Set an appropriate height for the chat box container */
   overflow-y: auto; /* Enable vertical scrollbar if content exceeds the height */
+}
+
+footer {
+  background-color: #4CAF50;
+  color: white;
+  text-align: left;
+  padding: 1em;
 }
