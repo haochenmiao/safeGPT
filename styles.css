@@ -31,8 +31,8 @@ input {
   margin-bottom: 10px;
 }
 
-.map {
-  height: 300px; /* Set an appropriate height for the map container */
+.map, #map {
+  height: 400px; /* Set an appropriate height for the map container */
   border: 1px solid #ddd; /* Optional: Add a border around the map */
   margin-bottom: 20px;
 }
