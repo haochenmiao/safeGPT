@@ -40,29 +40,33 @@
           center: [-122.4194, 37.7749],
           zoom: 10.7
         });
+
+        var markerA = new mapboxgl.Marker();
+        var markerB = new mapboxgl.Marker();
+
         function getDirections() {
           var pointA = document.getElementById('pointA').value;
           var pointB = document.getElementById('pointB').value;
-
           // Use Mapbox Geocoding API to get the coordinates for Point A
           fetch(`https://api.mapbox.com/geocoding/v5/mapbox.places/${pointA}.json?access_token=${mapboxgl.accessToken}`)
             .then(response => response.json())
             .then(data => {
               const locationA = data.features[0].geometry.coordinates;
-
+              console.log("Hello"+locationA)
+              markerA.setLngLat(locationA).addTo(map);
               // Use Mapbox Geocoding API to get the coordinates for Point B
               fetch(`https://api.mapbox.com/geocoding/v5/mapbox.places/${pointB}.json?access_token=${mapboxgl.accessToken}`)
                 .then(response => response.json())
                 .then(data => {
                   const locationB = data.features[0].geometry.coordinates;
-
+                  console.log("locB "+locationB)
                   // Use Mapbox Directions API to get the route between Point A and Point B
-                  fetch(`https://api.mapbox.com/directions/v5/mapbox/driving/${locationA[0]},${locationA[1]};${locationB[0]},${locationB[1]}?access_token=${mapboxgl.accessToken}`)
+                  fetch(`https://api.mapbox.com/directions/v5/mapbox/driving/-122.42,37.78;-77.03,38.91?access_token=${mapboxgl.accessToken}`)
                     .then(response => response.json())
                     .then(data => {
                       const routeCoordinates = data.routes[0].geometry.coordinates;
                       console.log('Route Coordinates:', routeCoordinates);
-
+                      markerB.setLngLat(locationB).addTo(map);
                       // You can use the routeCoordinates for further processing or display on the map
                     })
                     .catch(error => console.error('Error:', error));
@@ -73,12 +77,12 @@
         }
       </script>
       <script>
-    var directions = new MapboxDirections({
-        accessToken: mapboxgl.accessToken,
-        unit: 'miles',
-        profile: 'mapbox/driving-traffic'
-      });
-    map.addControl(directions, 'top-left');
+        var directions = new MapboxDirections({
+            accessToken: mapboxgl.accessToken,
+            unit: 'miles',
+            profile: 'mapbox/driving-traffic'
+          });
+        map.addControl(directions, 'top-left');
       </script>
     </section>
 
