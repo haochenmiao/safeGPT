@@ -17,8 +17,8 @@ main {
 }
 
 #getDirectionsBtn {
-  background-color: #3498db; 
-  color: #fff; 
+  background-color: #3498db;
+  color: #fff;
   padding: 15px 25px;
   font-size: 16px;
   margin-bottom: 40px;
@@ -34,6 +34,11 @@ main {
 
 .search {
   margin-bottom: 20px;
+}
+
+.mapboxgl-ctrl-geocoder {
+  margin-top: 10px;
+  max-width: 100%;
 }
 
 label {
@@ -79,9 +84,9 @@ footer {
 section {
   display: flex;
   flex-direction: column;
-  height: 30vh; 
-  max-width: 900px; 
-  margin: auto; 
+  height: 30vh;
+  max-width: 900px;
+  margin: auto;
 }
 
 .chatbox_header {
@@ -93,9 +98,9 @@ section {
 
 .chatbox_middle {
   flex: 1;
-  border: 1px solid #ccc; 
+  border: 1px solid #ccc;
   padding: 10px;
-  overflow-y: auto; 
+  overflow-y: auto;
 }
 
 .chatbox_input {

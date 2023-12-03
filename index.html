@@ -7,7 +7,11 @@
   <title>safeGPT</title>
   <link rel="stylesheet" href="styles.css">
   <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
-  <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.css" rel="stylesheet" />
+  <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.css" rel="stylesheet">
+  <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.0/mapbox-gl-geocoder.min.js"></script>
+  <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.js"></script>
+  <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.0/mapbox-gl-geocoder.css" type="text/css">
+
 </head>
 
 <body>
@@ -17,21 +21,25 @@
   </header>
 
   <main>
-    <section class="search">
+    <!-- <section class="search">
       <label for="pointA">Point A:</label>
-      <input type="text" id="pointA" placeholder="Enter starting point...">
+      <!-- Add a div for the Geocoder to attach to -->
+      <!-- <div id="geocoder-pointA"></div>
+      <input type="hidden" id="pointA">
 
       <label for="pointB">Point B:</label>
-      <input type="text" id="pointB" placeholder="Enter destination...">
+      <!-- Add a div for the Geocoder to attach to -->
+      <!-- <div id="geocoder-pointB"></div>
+      <input type="hidden" id="pointB"> -->
 
-      <section>
-        <button type="text" id="getDirectionsBtn" onclick="getDirections()"> Get Directions </button>
+      <!-- <section>
+        <button type="button" id="getDirectionsBtn" onclick="getDirections()"> Get Directions </button>
       </section>
-    </section>
+    </section> -->
 
     <section class="map">
       <!-- Directly include map content -->
-      <div id='map'></div>
+      <div id="map"></div>
       <script>
         mapboxgl.accessToken = 'pk.eyJ1IjoiY2lsbGFuZ3UiLCJhIjoiY2xwb253Mjd3MHJmcDJqbzl1YTZ0bmtzNyJ9.djwVHU7J_qf1wrGmc2U8mA';
         const map = new mapboxgl.Map({
@@ -41,40 +49,125 @@
           zoom: 10.7
         });
 
-        var markerA = new mapboxgl.Marker();
-        var markerB = new mapboxgl.Marker();
+        /* don't change this!!! */
+        // var markerA = new mapboxgl.Marker();
+        // var markerB = new mapboxgl.Marker();
+        /* don't change this!!! */
 
-        function getDirections() {
-          var pointA = document.getElementById('pointA').value;
-          var pointB = document.getElementById('pointB').value;
-          // Use Mapbox Geocoding API to get the coordinates for Point A
-          fetch(`https://api.mapbox.com/geocoding/v5/mapbox.places/${pointA}.json?access_token=${mapboxgl.accessToken}`)
+   // Create Mapbox Geocoding Control instances for pointA and pointB
+   var geocoderPointA = new MapboxGeocoder({
+      accessToken: mapboxgl.accessToken,
+      mapboxgl: mapboxgl,
+      marker: true, // Disable default marker
+      placeholder: 'Enter starting point...'
+   });
+
+   var geocoderPointB = new MapboxGeocoder({
+      accessToken: mapboxgl.accessToken,
+      mapboxgl: mapboxgl,
+      marker: true, // Disable default marker
+      placeholder: 'Enter destination...'
+   });
+
+   // Append the Geocoders to the respective HTML elements
+   document.getElementById('geocoder-pointA').appendChild(geocoderPointA.onAdd(map));
+   document.getElementById('geocoder-pointB').appendChild(geocoderPointB.onAdd(map));
+
+   // Event listeners for geocoding results
+   geocoderPointA.on('result', function (result) {
+      document.getElementById('pointA').value = JSON.stringify(result.result.geometry.coordinates);
+   });
+
+   geocoderPointB.on('result', function (result) {
+      document.getElementById('pointB').value = JSON.stringify(result.result.geometry.coordinates);
+   });
+
+   var directions = new MapboxDirections({
+    accessToken: mapboxgl.accessToken,
+    unit: 'miles',
+    profile: 'mapbox/driving-traffic'
+  });
+
+  map.addControl(directions, 'top-left');
+
+  function getDirections() {
+    var pointA = document.getElementById('geocoder-pointA').querySelector('.mapboxgl-ctrl-geocoder').value;
+    var pointB = document.getElementById('geocoder-pointB').querySelector('.mapboxgl-ctrl-geocoder').value;
+
+    // Use Mapbox Geocoding API to get the coordinates for Point A
+    fetch(`https://api.mapbox.com/geocoding/v5/mapbox.places/${pointA}.json?access_token=${mapboxgl.accessToken}`)
+      .then(response => response.json())
+      .then(data => {
+        console.log('Point A Geocoding Response:', data);
+
+        // Check if the response contains any features
+        if (data.features && data.features.length > 0) {
+          const locationA = data.features[0].geometry.coordinates;
+          console.log('Point A Coordinates:', locationA);
+
+          // Use Mapbox Geocoding API to get the coordinates for Point B
+          fetch(`https://api.mapbox.com/geocoding/v5/mapbox.places/${pointB}.json?access_token=${mapboxgl.accessToken}`)
             .then(response => response.json())
             .then(data => {
-              const locationA = data.features[0].geometry.coordinates;
-              console.log("Hello"+locationA)
-              markerA.setLngLat(locationA).addTo(map);
-              // Use Mapbox Geocoding API to get the coordinates for Point B
-              fetch(`https://api.mapbox.com/geocoding/v5/mapbox.places/${pointB}.json?access_token=${mapboxgl.accessToken}`)
-                .then(response => response.json())
-                .then(data => {
-                  const locationB = data.features[0].geometry.coordinates;
-                  console.log("locB "+locationB)
-                  // Use Mapbox Directions API to get the route between Point A and Point B
-                  fetch(`https://api.mapbox.com/directions/v5/mapbox/driving/-122.42,37.78;-77.03,38.91?access_token=${mapboxgl.accessToken}`)
-                    .then(response => response.json())
-                    .then(data => {
-                      const routeCoordinates = data.routes[0].geometry.coordinates;
-                      console.log('Route Coordinates:', routeCoordinates);
-                      markerB.setLngLat(locationB).addTo(map);
-                      // You can use the routeCoordinates for further processing or display on the map
-                    })
-                    .catch(error => console.error('Error:', error));
-                })
-                .catch(error => console.error('Error:', error));
+              console.log('Point B Geocoding Response:', data);
+
+              // Check if the response contains any features
+              if (data.features && data.features.length > 0) {
+                const locationB = data.features[0].geometry.coordinates;
+                console.log('Point B Coordinates:', locationB);
+
+                // Create Mapbox Directions instance
+                var directions = new MapboxDirections({
+                  accessToken: mapboxgl.accessToken,
+                  unit: 'miles',
+                  profile: 'mapbox/driving-traffic'
+                });
+
+                // Set origin and destination for Mapbox Directions
+                directions.setOrigin(locationA);
+                directions.setDestination(locationB);
+
+                // Add control to the map
+                map.addControl(directions, 'top-left');
+              } else {
+                console.error('Error: No features found for Point B');
+              }
             })
-            .catch(error => console.error('Error:', error));
+            .catch(error => console.error('Error getting Point B coordinates:', error));
+        } else {
+          console.error('Error: No features found for Point A');
         }
+      })
+      .catch(error => console.error('Error getting Point A coordinates:', error));
+  }
+map.on('load', function () {
+  map.addSource('route', {
+    type: 'geojson',
+    data: {
+      type: 'Feature',
+      properties: {},
+      geometry: {
+        type: 'LineString',
+        coordinates: []
+      }
+    }
+  });
+
+  map.addLayer({
+    id: 'route',
+    type: 'line',
+    source: 'route',
+    layout: {
+      'line-join': 'round',
+      'line-cap': 'round'
+    },
+    paint: {
+      'line-color': '#3887be',
+      'line-width': 5,
+      'line-opacity': 0.75
+    }
+  });
+});
       </script>
       <script>
         var directions = new MapboxDirections({
