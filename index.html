@@ -41,6 +41,23 @@
           zoom: 10.7
         });
 
+        function getDirections() {
+          var pointA = document.getElementById('pointA').value;
+          var pointB = document.getElementById('pointB').value;
+          var apiKey = 'AIzaSyDWiuXj_ecVrpt3oBJwUzLwnqOdeohaB-s'; // Replace with your Google Geocoding API key
+
+          // Use the Google Geocoding API to get the coordinates for Point A
+          fetch(`https://maps.googleapis.com/maps/api/geocode/json?address=${pointA}&key=${apiKey}`)
+            .then(response => response.json())
+            .then(data => {
+              const locationA = data.results[0].geometry.location;
+              console.log('Coordinates for Point A:', locationA);
+
+              // You can use the locationA coordinates for further processing or display on the map
+            })
+            .catch(error => console.error('Error:', error));
+        }
+
    </script>
     </section>
 
