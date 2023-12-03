@@ -79,7 +79,7 @@ footer {
 section {
   display: flex;
   flex-direction: column;
-  height: 100vh; 
+  height: 50vh; 
   max-width: 700px; 
   margin: auto; 
 }
