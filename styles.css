@@ -39,8 +39,7 @@ input {
 
 .chat-box {
   border: 1px solid #ddd;
-  padding: 10px;
-  height: 200px; /* Set an appropriate height for the chat box container */
+  height: 400px; /* Set an appropriate height for the chat box container */
   overflow-y: auto; /* Enable vertical scrollbar if content exceeds the height */
 }
 
@@ -58,4 +57,30 @@ footer {
 }
 .name {
   text-align: right;
+}
+
+/* chatbox css */
+
+.chatbox_section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.chatbox_input {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  margin-bottom: auto;
+}
+
+.chatbox_middle {
+  /* Styling for the middle section where results will be produced */
+  flex: 1;
+}
+
+.chatbox_header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
 }
