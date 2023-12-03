@@ -76,36 +76,31 @@ footer {
 }
 
 /* chatbox css */
+section {
+  display: flex;
+  flex-direction: column;
+  height: 100vh; /* Set section to full height of the viewport */
+  max-width: 400px; /* Adjust max-width based on your design */
+  margin: auto; /* Center the section horizontally */
+}
 
-div.fixed {
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  width: 300px;
-  border: 3px solid #73AD21;
+.chatbox_header {
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
 
-.chatbox_section {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+.chatbox_middle {
+  /* Styling for the middle section where results will be produced */
+  flex: 1;
+  border: 1px solid #ccc; /* Add a border for illustration */
+  padding: 10px;
+  overflow-y: auto; /* Add scrollbar if content overflows */
 }
 
 .chatbox_input {
   width: 100%;
   padding: 10px;
   box-sizing: border-box;
-  margin-bottom: auto;
-}
-
-.chatbox_middle {
-  /* Styling for the middle section where results will be produced */
-  flex: 1;
-}
-
-.chatbox_header {
-    background-color: #4CAF50;
-    color: white;
-    text-align: center;
-}
-
 }
