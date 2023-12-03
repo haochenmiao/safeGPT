@@ -48,5 +48,14 @@ footer {
   background-color: #4CAF50;
   color: white;
   text-align: left;
-  padding: 1em;
+  padding: 0.5em;
+  display: flex;
+  justify-content: space-between;
+}
+
+.copyright {
+  text-align: left;
+}
+.name {
+  text-align: right;
 }
