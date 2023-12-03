@@ -25,6 +25,10 @@
       <input type="text" id="pointB" placeholder="Enter destination...">
     </section>
 
+    <section>
+      <button type="text" id="getDirectionsBtn"> Get Directions</button>
+    </section>
+
     <section class="map">
       <!-- Directly include map content -->
       <div id='map'></div>
@@ -36,15 +40,8 @@
           center: [-122.4194, 37.7749],
           zoom: 10.7
         });
-      </script>
-      <script>
-    var directions = new MapboxDirections({
-        accessToken: mapboxgl.accessToken,
-        unit: 'miles',
-        profile: 'mapbox/driving-traffic'
-      });
-    map.addControl(directions, 'top-left');
-      </script>
+
+   </script>
     </section>
 
     <section class="chat-box">
