@@ -79,9 +79,9 @@ footer {
 section {
   display: flex;
   flex-direction: column;
-  height: 100vh; /* Set section to full height of the viewport */
-  max-width: 400px; /* Adjust max-width based on your design */
-  margin: auto; /* Center the section horizontally */
+  height: 100vh; 
+  max-width: 400px; 
+  margin: auto; 
 }
 
 .chatbox_header {
@@ -92,11 +92,10 @@ section {
 }
 
 .chatbox_middle {
-  /* Styling for the middle section where results will be produced */
   flex: 1;
-  border: 1px solid #ccc; /* Add a border for illustration */
+  border: 1px solid #ccc; 
   padding: 10px;
-  overflow-y: auto; /* Add scrollbar if content overflows */
+  overflow-y: auto; 
 }
 
 .chatbox_input {
